@@ -1,0 +1,1610 @@
+﻿id;created_at;updated_at;year;ecoregion;province;location;country;latitude;longitude;even_start;lower_depth;upper_depth;taxa;species;damaged_percentatge;damaged_qualitative;individuals_surveyed;drivers_abiotic;drivers_abiotic_other;drivers_biotic_group;drivers_biotic;drivers_biotic_other;meow_id;protected_area;protected_area_id;status_yr;location_mpa;published;publication_id;contact;comments;public
+1;2018-07-06 07:02:20;2018-10-04 13:01:05;1979;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Spring;20.00;7.00;Echinoderma;Paracentrotus lividus;74.56;Severe;645;;;;NA;;231;1;86;1963;Port-Cros;1;176;"Full name: 
+e-mail: 
+web page: ";;0
+2;2018-07-06 07:02:23;2018-10-04 13:01:06;1979;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Spring;25.00;20.00;Echinoderma;Paracentrotus lividus;44.00;Moderate;292;;;;NA;;231;1;86;1963;Port-Cros;1;160;"Full name: 
+e-mail: 
+web page: ";;0
+3;2018-07-06 07:02:29;2018-10-04 13:01:06;1983;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.15000;5.61333;Summer;20.00;20.00;Cnidaria;Corallium rubrum;;;;;;;NA;;231;1;150;2012;Calanques;1;206;"Full name: 
+e-mail: 
+web page: ";;0
+4;2018-07-06 07:02:36;2018-10-04 13:01:06;1983;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.15435;5.61333;Summer;20.00;20.00;Cnidaria;Eunicella singularis;;;;;;;NA;;231;1;150;2012;Calanques;1;200;"Full name: 
+e-mail: 
+web page: ";;0
+5;2018-07-06 07:02:36;2018-10-04 13:01:06;1985;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Adjim;;33.70000;10.48645;Autumn;40.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;;;233;0;;0;;1;222;"Full name: 
+e-mail: 
+web page: ";;0
+6;2018-07-06 07:02:37;2018-10-04 13:01:06;1985;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Adjim;;33.92513;10.78000;Autumn;40.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;;;233;0;;0;;1;224;"Full name: 
+e-mail: 
+web page: ";;0
+7;2018-07-06 07:02:38;2018-10-01 12:42:47;1986;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Winter;20.00;20.00;Cnidaria;Eunicella cavolinii;50.00;Moderate;71;;;;NA;;231;1;34;1998;Portofino;1;147;"Full name: 
+e-mail: 
+web page: ";Monitoring 4 months;0
+8;2018-07-06 07:02:38;2018-10-04 13:01:06;1986;Levantine Sea;Mediterranean Sea;Xylofagou (Cyprus) ;;34.58000;33.51000;Spring;40.00;0.00;Porifera;Spongia officinalis ;100.00;Severe;;Temperature anomaly;;;;;226;0;;0;;1;184;"Full name: 
+e-mail: 
+web page: ";;0
+9;2018-07-06 07:02:39;2018-10-04 13:01:06;1986;Levantine Sea;Mediterranean Sea;Xylofagou (Cyprus) ;;34.58000;33.51000;Spring;40.00;0.00;Porifera;Hippospongia communis;100.00;Severe;;Temperature anomaly;;;;;226;0;;0;;1;188;"Full name: 
+e-mail: 
+web page: ";;0
+10;2018-07-06 07:02:39;2018-10-04 13:01:06;1986;Levantine Sea;Mediterranean Sea;Xylofagou (Cyprus) ;;34.58000;33.51000;;40.00;0.00;Porifera;Ircinia spp;;;;Temperature anomaly;;;;;226;0;;0;;1;189;"Full name: 
+e-mail: 
+web page: ";;0
+11;2018-07-06 07:02:40;2018-10-04 13:01:06;1986;Levantine Sea;Mediterranean Sea;Xylofagou (Cyprus) ;;34.58000;33.51000;Spring;40.00;0.00;Porifera;Sarcotragus sp. ;;;;Temperature anomaly;;;;;226;0;;0;;1;190;"Full name: 
+e-mail: 
+web page: ";;0
+12;2018-07-06 07:02:40;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Bodrum (Turkey) ;;37.02000;27.25000;;40.00;0.00;Porifera;Spongia officinalis ;;;;Temperature anomaly;;;;;229;0;;0;;1;191;"Full name: 
+e-mail: 
+web page: ";;0
+13;2018-07-06 07:02:41;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Bodrum (Turkey) ;;37.02000;27.25000;;40.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;;;229;0;;0;;1;192;"Full name: 
+e-mail: 
+web page: ";;0
+14;2018-07-06 07:02:42;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Bodrum (Turkey) ;;37.02000;27.25000;;40.00;0.00;Porifera;Sarcotragus spinosulus;100.00;Severe;;Temperature anomaly;;;;;229;0;;0;;1;193;"Full name: 
+e-mail: 
+web page: ";;0
+15;2018-07-06 07:02:42;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Kalymnos (Dodecanese Islands);;36.59000;26.59000;Summer;40.00;0.00;Porifera;Spongia officinalis;;Moderate;;Temperature anomaly;;;;;229;0;;0;;1;90;"Full name: 
+e-mail: 
+web page: ";Desaparecieron en 3 años. Some signs of recovery after 5 years;0
+16;2018-07-06 07:02:43;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Kalymnos (Dodecanese Islands);;36.59000;26.59000;Summer;40.00;0.00;Porifera;Hippospongia communis;;Moderate;;Temperature anomaly;;;;;229;0;;0;;1;90;"Full name: 
+e-mail: 
+web page: ";Desaparecieron en 3 años. Some signs of recovery after 5 years;0
+17;2018-07-06 07:02:43;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Patmos (Dodecanese Islands);;37.18000;26.32000;;40.00;0.00;Porifera;Spongia officinalis ;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+18;2018-07-06 07:02:44;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Patmos (Dodecanese Islands);;37.18000;26.32000;;40.00;0.00;Porifera;Hippospongia communis;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+19;2018-07-06 07:02:44;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Leros (Dodecanese Islands);;37.08000;26.50000;;40.00;0.00;Porifera;Spongia officinalis ;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+20;2018-07-06 07:02:45;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Leros (Dodecanese Islands);;37.08000;26.50000;;40.00;0.00;Porifera;Hippospongia communis;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+21;2018-07-06 07:02:45;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Pserimos (Dodecanese Islands);;36.56000;27.08000;;40.00;0.00;Porifera;Spongia officinalis ;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+22;2018-07-06 07:02:46;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Pserimos (Dodecanese Islands);;36.56000;27.08000;;40.00;0.00;Porifera;Hippospongia communis;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+23;2018-07-06 07:02:46;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Kos (Dodecanese Islands);;36.48000;27.06000;;40.00;0.00;Porifera;Spongia officinalis ;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+24;2018-07-06 07:02:47;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Kos (Dodecanese Islands);;36.48000;27.06000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+25;2018-07-06 07:02:48;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Symi (Dodecanese Islands);TR;37.00000;28.23000;;40.00;0.00;Porifera;Spongia officinalis ;;Severe;;Temperature anomaly;;;;;229;1;14;1988;Gokova;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+26;2018-07-06 07:02:48;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Symi (Dodecanese Islands);TR;37.00000;28.23000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;1;14;1988;Gokova;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+27;2018-07-06 07:02:49;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Chalki (Dodecanese Islands);;36.14000;27.34000;;40.00;0.00;Porifera;Spongia officinalis ;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+28;2018-07-06 07:02:49;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Chalki (Dodecanese Islands);;36.14000;27.34000;;40.00;0.00;Porifera;Hippospongia communis;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+29;2018-07-06 07:02:50;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Telos (Dodecanese Islands);;36.26000;27.22000;;40.00;0.00;Porifera;Spongia officinalis ;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+30;2018-07-06 07:02:50;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Telos (Dodecanese Islands);;36.26000;27.22000;;40.00;0.00;Porifera;Hippospongia communis;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+31;2018-07-06 07:02:51;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Astypalea (Dodecanese Islands);;36.33000;26.21000;;40.00;0.00;Porifera;Spongia officinalis ;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+32;2018-07-06 07:02:51;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Astypalea (Dodecanese Islands);;36.33000;26.21000;;40.00;0.00;Porifera;Hippospongia communis;;Low;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+33;2018-07-06 07:02:52;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Skiathos  (Sporades archipielago);;39.10000;23.29000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+34;2018-07-06 07:02:52;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Skiathos  (Sporades archipielago);;39.10000;23.29000;;40.00;0.00;Porifera;Spongia officinalis ;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+35;2018-07-06 07:02:53;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Skopelos (Sporades archipielago);;39.07000;23.42000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+36;2018-07-06 07:02:53;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Skopelos (Sporades archipielago);;39.07000;23.42000;;40.00;0.00;Porifera;Spongia officinalis ;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+37;2018-07-06 07:02:56;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Piperi (Sporades archipielago);GR;39.34000;24.32000;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;229;1;57;1992;Alonissos - Northern Sporades;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+38;2018-07-06 07:02:58;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Piperi (Sporades archipielago);GR;39.34000;24.32000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;1;57;1992;Alonissos - Northern Sporades;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+39;2018-07-06 07:02:58;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Evoia (Southern coast) ;;38.30000;24.00000;;40.00;0.00;Porifera;Spongia officinalis ;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+40;2018-07-06 07:02:59;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Evoia (Southern coast) ;;38.30000;24.00000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+41;2018-07-06 07:03:00;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Karpathos (Cyclades archipielago);;35.35000;27.08000;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+42;2018-07-06 07:03:01;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Karpathos (Cyclades archipielago);;35.35000;27.08000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+43;2018-07-06 07:03:02;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Paros (Cyclades archipielago);;37.03000;25.11000;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+44;2018-07-06 07:03:03;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Paros (Cyclades archipielago);;37.03000;25.11000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+45;2018-07-06 07:03:04;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Antiparos (Cyclades archipielago);;37.00000;25.03000;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+46;2018-07-06 07:03:05;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Antiparos (Cyclades archipielago);;37.00063;25.01965;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+47;2018-07-06 07:03:06;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Naxos (Cyclades archipielago);;37.05000;25.28000;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+48;2018-07-06 07:03:07;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Naxos (Cyclades archipielago);;37.05000;25.28000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+49;2018-07-06 07:03:07;2018-10-04 13:01:06;1986;Ionian Sea;Mediterranean Sea;Peloponnese coast;;36.49197;22.18140;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;228;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+50;2018-07-06 07:03:08;2018-10-04 13:01:06;1986;Ionian Sea;Mediterranean Sea;Peloponnese coast;;36.49197;22.18000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;228;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+51;2018-07-06 07:03:09;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea; Crete;;35.29000;23.39000;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+52;2018-07-06 07:03:10;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea; Crete;;35.29000;23.39000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+53;2018-07-06 07:03:11;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Kassos;;35.33000;25.84808;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+54;2018-07-06 07:03:12;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Kassos;;35.33977;26.83136;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+55;2018-07-06 07:03:12;2018-10-04 13:01:06;1986;Ionian Sea;Mediterranean Sea;Ionian coast (Greece) ;;38.30000;20.30000;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;228;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+56;2018-07-06 07:03:13;2018-10-04 13:01:06;1986;Ionian Sea;Mediterranean Sea;Ionian coast (Greece) ;;38.30000;20.30000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;228;0;;0;;1;91;"Full name: 
+e-mail: 
+web page: ";;0
+57;2018-07-06 07:03:14;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Psira Island (Crete);;35.18054;25.84534;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;162;"Full name: 
+e-mail: 
+web page: ";;0
+58;2018-07-06 07:03:15;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Psira Island (Crete);;35.18054;25.84534;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;163;"Full name: 
+e-mail: 
+web page: ";;0
+59;2018-07-06 07:03:15;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Hersonissos (Crete);;35.38905;25.31250;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;164;"Full name: 
+e-mail: 
+web page: ";;0
+60;2018-07-06 07:03:16;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Hersonissos (Crete);;35.38905;25.31000;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;169;"Full name: 
+e-mail: 
+web page: ";;0
+61;2018-07-06 07:03:16;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Ierapetra (Crete);;34.97800;25.44571;;40.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;150;"Full name: 
+e-mail: 
+web page: ";;0
+62;2018-07-06 07:03:17;2018-10-04 13:01:06;1986;Aegean Sea;Mediterranean Sea;Ierapetra (Crete);;34.97825;25.44571;;40.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;;;229;0;;0;;1;151;"Full name: 
+e-mail: 
+web page: ";;0
+63;2018-07-06 07:03:17;2018-10-04 13:01:06;1986;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Kerkennah Islands ;;34.47000;11.14000;;40.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;;;233;0;;0;;1;153;"Full name: 
+e-mail: 
+web page: ";;0
+64;2018-07-06 07:03:18;2018-10-04 13:01:06;1986;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Kerkennah Islands ;;34.47000;11.14000;;40.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;;;233;0;;0;;1;155;"Full name: 
+e-mail: 
+web page: ";;0
+65;2018-07-06 07:03:18;2018-10-04 13:01:06;1986;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Djerba ;;33.92513;10.78000;;40.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;;;233;0;;0;;1;221;"Full name: 
+e-mail: 
+web page: ";;0
+66;2018-07-06 07:03:19;2018-10-04 13:01:06;1986;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Djerba ;;33.92513;10.78857;;40.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;;;233;0;;0;;1;223;"Full name: 
+e-mail: 
+web page: ";;0
+67;2018-07-06 07:03:19;2018-10-04 13:01:06;1986;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Zarzis;;33.52308;11.14563;;40.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;;;233;0;;0;;1;156;"Full name: 
+e-mail: 
+web page: ";;0
+68;2018-07-06 07:03:20;2018-10-04 13:01:06;1986;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Zarzis;;33.50000;11.08000;;40.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;;;233;0;;0;;1;157;"Full name: 
+e-mail: 
+web page: ";;0
+69;2018-07-06 07:03:20;2018-10-04 13:01:06;1986;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Malta;;35.53000;14.30000;;40.00;0.00;Porifera;Ircinia spp;;;;Temperature anomaly;;;;;233;0;;0;;1;158;"Full name: 
+e-mail: 
+web page: ";;0
+70;2018-07-06 07:03:21;2018-10-04 13:01:06;1986;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Malta;;35.53000;14.30000;;40.00;0.00;Porifera;Sarcotragus;;;;Temperature anomaly;;;;;233;0;;0;;1;143;"Full name: 
+e-mail: 
+web page: ";;0
+71;2018-07-06 07:03:21;2018-10-04 13:01:06;1986;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Malta;;35.53000;14.30000;;40.00;0.00;Porifera;Spongia officinalis ;;;;Temperature anomaly;;;;;233;0;;0;;1;144;"Full name: 
+e-mail: 
+web page: ";;0
+72;2018-07-06 07:03:22;2018-10-04 13:01:06;1986;Tunisian Plateau/Gulf of Sidra;Mediterranean Sea;Malta;;35.53000;14.30000;;40.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;;;233;0;;0;;1;145;"Full name: 
+e-mail: 
+web page: ";;0
+73;2018-07-06 07:03:23;2018-10-04 13:01:06;1987;Levantine Sea;Mediterranean Sea;Agiba (Egypt);;31.39585;27.14722;;40.00;0.00;Porifera; Hippospongia communis;100.00;Severe;;Temperature anomaly;;;;;226;0;;0;;1;90;"Full name: 
+e-mail: 
+web page: ";;0
+74;2018-07-06 07:03:23;2018-10-04 13:01:06;1987;Levantine Sea;Mediterranean Sea;Boyat (Egypt);;31.40522;27.11975;;40.00;0.00;Porifera; Hippospongia communis;100.00;Severe;;Temperature anomaly;;;;;226;0;;0;;1;90;"Full name: 
+e-mail: 
+web page: ";;0
+75;2018-07-06 07:03:24;2018-10-04 13:01:06;1987;Levantine Sea;Mediterranean Sea;Mersa Martruh (Egypt);;31.37709;27.23511;;40.00;0.00;Porifera; Hippospongia communis;100.00;Severe;;Temperature anomaly;;;;;226;0;;0;;1;90;"Full name: 
+e-mail: 
+web page: ";;0
+76;2018-07-06 07:03:25;2018-10-04 13:01:06;1987;Levantine Sea;Mediterranean Sea;Ras Alam El Hum (Egypt);;31.32666;27.39029;;40.00;0.00;Porifera; Hippospongia communis;100.00;Severe;;Temperature anomaly;;;;;226;0;;0;;1;90;"Full name: 
+e-mail: 
+web page: ";;0
+77;2018-07-06 07:03:26;2018-10-04 13:01:06;1987;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Spring;18.00;18.00;Porifera;Spongia officinalis;60.00;Moderate;;;;;Bacterial infection;;231;1;34;1998;Portofino;1;140;"Full name: 
+e-mail: 
+web page: ";;0
+78;2018-07-06 07:03:27;2018-10-04 13:01:06;1987;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;;25.00;12.00;Porifera;Petrosia ficiformis;;Low;;;;;Bacterial infection;;231;1;34;1998;Portofino;1;141;"Full name: 
+e-mail: 
+web page: ";;0
+79;2018-07-06 07:03:28;2018-10-04 13:01:06;1987;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;;25.00;12.00;Porifera;Ircinia variabilis;;Low;;;;;Bacterial infection;;231;1;34;1998;Portofino;1;142;"Full name: 
+e-mail: 
+web page: ";;0
+80;2018-07-06 07:03:35;2018-10-04 13:01:06;1987;Ionian Sea;Mediterranean Sea;Marsala Lagoon;IT;37.85317;12.45987;Summer;2.00;1.00;Porifera;Anchinoe paupertas;100.00;Severe;;Temperature anomaly;;;Bacterial infection;;228;1;51;1984;Isole Dello Stagnone Di Marsala;1;197;"Full name: 
+e-mail: 
+web page: ";;0
+81;2018-07-06 07:03:41;2018-10-04 13:01:06;1987;Ionian Sea;Mediterranean Sea;Marsala Lagoon;IT;37.85317;12.45987;Summer;2.00;1.00;Porifera;Spongia officinalis;100.00;Severe ;;Temperature anomaly;;;Bacterial infection;;228;1;51;1984;Isole Dello Stagnone Di Marsala;1;198;"Full name: 
+e-mail: 
+web page: ";;0
+82;2018-07-06 07:03:48;2018-10-04 13:01:06;1988;Ionian Sea;Mediterranean Sea;Marsala Lagoon;IT;37.85317;12.45987;Summer;2.00;1.00;Porifera;Ircinia variabilis;37.00;Moderate;;Temperature anomaly;;;Bacterial infection;;228;1;51;1984;Isole Dello Stagnone Di Marsala;1;199;"Full name: 
+e-mail: 
+web page: ";;0
+83;2018-07-06 07:03:50;2018-10-04 13:01:06;1992;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;30.00;22.00;Cnidaria;Paramuricea clavata;42.00;Moderate;434;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;146;"Full name: 
+e-mail: 
+web page: ";;0
+84;2018-07-06 07:03:51;2018-10-04 13:01:06;1993;Western Mediterranean;Mediterranean Sea;Strait of Messina;;38.18855;15.60000;Summer;30.00;30.00;Cnidaria;Paramuricea clavata;43.00;Moderate;30;Temperature anomaly;;;;;231;0;;0;;1;94;"Full name: 
+e-mail: 
+web page: ";;0
+85;2018-07-06 07:03:51;2018-10-04 13:01:06;1993;Western Mediterranean;Mediterranean Sea;Strait of Messina;;38.18855;15.60000;Summer;32.00;32.00;Cnidaria;Paramuricea clavata;24.00;Low;25;Temperature anomaly;;;;;231;0;;0;;1;94;"Full name: 
+e-mail: 
+web page: ";;0
+86;2018-07-06 07:03:52;2018-10-04 13:01:06;1993;Western Mediterranean;Mediterranean Sea;Strait of Messina;;38.18855;15.60000;Summer;35.00;35.00;Cnidaria;Paramuricea clavata;48.00;Moderate;52;Temperature anomaly;;;;;231;0;;0;;1;94;"Full name: 
+e-mail: 
+web page: ";;0
+87;2018-07-06 07:03:52;2018-10-04 13:01:06;1993;Western Mediterranean;Mediterranean Sea;Strait of Messina;;38.18855;15.60608;Summer;37.00;37.00;Cnidaria;Paramuricea clavata;8.60;Low;35;Temperature anomaly;;;;;231;0;;0;;1;94;"Full name: 
+e-mail: 
+web page: ";;0
+88;2018-07-06 07:03:53;2018-10-04 13:01:06;1993;Western Mediterranean;Mediterranean Sea;Strait of Messina;;38.18855;15.60000;Summer;39.00;39.00;Cnidaria;Paramuricea clavata;21.00;Low;38;Temperature anomaly;;;;;231;0;;0;;1;94;"Full name: 
+e-mail: 
+web page: ";;0
+89;2018-07-06 07:03:53;2018-10-04 13:01:06;1993;Western Mediterranean;Mediterranean Sea;Strait of Messina;;38.18855;15.60000;Summer;37.00;30.00;Cnidaria;Paramuricea clavata;93.00;Severe;58;Temperature anomaly;;;;;231;0;;0;;1;94;"Full name: 
+e-mail: 
+web page: ";6 months monitoring;0
+90;2018-07-06 07:03:54;2018-10-04 13:01:06;1993;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Autumn;25.00;20.00;Cnidaria;Paramuricea clavata;100.00;Severe;10000;Temperature anomaly;;;NA;;231;1;34;1998;Portofino;1;148;"Full name: 
+e-mail: 
+web page: ";;0
+91;2018-07-06 07:03:55;2018-10-04 13:01:06;1993;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Autumn;38.00;25.00;Cnidaria;Paramuricea clavata;93.00;Severe;10000;Temperature anomaly;;;NA;;231;1;34;1998;Portofino;1;149;"Full name: 
+e-mail: 
+web page: ";;0
+92;2018-07-06 07:04:02;2018-10-04 13:01:06;1993;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Autumn;11.00;11.00;Bryozoa;Pentapora fascialis;100.00;Severe;8;Other;Storm;;NA;;231;0;;0;;1;95;"Full name: 
+e-mail: 
+web page: ";;0
+93;2018-07-06 07:04:04;2018-10-04 13:01:06;1995;Ionian Sea;Mediterranean Sea;Porto Cesareo;IT;40.25000;17.89000;Summer;1.00;1.00;Porifera;Ircinia spiculosa;27.00;Low;93;;;;NA;;228;1;48;1997;Porto Cesareo;1;136;"Full name: 
+e-mail: 
+web page: ";Ligerisima recuperacion ;0
+94;2018-07-06 07:04:07;2018-10-04 13:01:06;1995;Ionian Sea;Mediterranean Sea;Porto Cesareo;IT;40.25000;17.89000;Summer;1.00;1.00;Porifera;Ircinia spp;93.00;Severe;138;;;;NA;;228;1;48;1997;Porto Cesareo;1;137;"Full name: 
+e-mail: 
+web page: ";Ligerisima recuperacion al final ;0
+95;2018-07-06 07:04:07;2018-10-04 13:01:06;1995;Aegean Sea;Mediterranean Sea;Kavala Bay ;;40.56000;24.24000;;0.00;0.00;Cnidaria;Eunicella singularis;;;;Temperature anomaly;;;NA;;229;0;;0;;1;139;"Full name: 
+e-mail: 
+web page: ";;0
+96;2018-07-06 07:04:08;2018-10-04 13:01:06;1996;Aegean Sea;Mediterranean Sea;Crete;;35.11092;24.48853;;40.00;0.00;Porifera;Sponges;;Low;;;;;;;229;0;;0;;1;138;"Full name: 
+e-mail: 
+web page: ";;0
+97;2018-07-06 07:04:15;2018-10-04 13:01:06;1997;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79137;17.33780;Summer;18.00;6.00;Cnidaria;Cladocora caespitosa;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;96;"Full name: 
+e-mail: 
+web page: ";338 colonies bleached;0
+98;2018-07-06 07:04:16;2018-10-04 13:01:06;1997;Western Mediterranean;Mediterranean Sea;Gulf of La Spezia;;44.05799;9.86847;Summer;12.00;4.00;Cnidaria;Balanophyllia europaea;;Severe ;;;;;NA;;231;0;;0;;1;185;"Full name: 
+e-mail: 
+web page: ";;0
+99;2018-07-06 07:04:16;2018-10-04 13:01:06;1997;Western Mediterranean;Mediterranean Sea;Gulf of La Spezia (Bay of Fiascherino);;44.10000;9.82000;Summer;7.00;7.00;Cnidaria;Cladocora caespitosa;25.00;Low;28;Temperature anomaly;;;NA;;231;0;;0;;1;97;"Full name: 
+e-mail: 
+web page: ";;0
+100;2018-07-06 07:04:17;2018-10-04 13:01:06;1998;Western Mediterranean;Mediterranean Sea;Gulf of La Spezia;;44.05000;9.86847;Summer;12.00;4.00;Cnidaria;Balanophyllia europaea;70.00;Severe;67;;;;NA;;231;0;;0;;1;186;"Full name: 
+e-mail: 
+web page: ";;0
+101;2018-07-06 07:04:17;2018-10-04 13:01:06;1998;Western Mediterranean;Mediterranean Sea;Gulf of La Spezia (Bay of Fiascherino);;44.10000;9.82000;Summer;7.00;7.00;Cnidaria;Cladocora caespitosa;27.00;Low;26;Temperature anomaly;;NA;NA;;231;0;;0;;1;97;Full name: e-mail: web page: ;;0
+102;2018-07-06 07:04:24;2018-10-04 13:01:06;1998;Western Mediterranean;Mediterranean Sea;Gallinaria Island;;44.03000;8.23000;Summer;5.00;0.00;Porifera;Petrosia ficiformis;25.00;Low;120;Temperature anomaly;;;NA;;231;0;;0;;1;98;"Full name: 
+e-mail: 
+web page: ";Increase Turbidity;0
+103;2018-07-06 07:04:27;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;30.00;22.00;Cnidaria;Paramuricea clavata;60.00;Severe;437;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;187;"Full name: 
+e-mail: 
+web page: ";;0
+104;2018-07-06 07:04:30;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;30.00;15.00;Cnidaria;Paramuricea clavata;;Severe;284;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;99;"Full name: 
+e-mail: 
+web page: ";;0
+105;2018-07-06 07:04:32;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;45.00;35.00;Cnidaria;Paramuricea clavata;;Low;284;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;99;"Full name: 
+e-mail: 
+web page: ";;0
+106;2018-07-06 07:04:35;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;25.00;25.00;Cnidaria;Paramuricea clavata;76.00;Severe;736;Temperature anomaly;;NA;NA;;231;1;86;1963;Port-Cros;1;99;Full name: e-mail: web page: ;;0
+107;2018-07-06 07:04:42;2018-10-04 13:01:06;1999;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;18.00;6.00;Cnidaria;Cladocora caespitosa;;Severe;250;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;96;"Full name: 
+e-mail: 
+web page: ";250 bleached (187 partially / 63 dead) ;0
+108;2018-07-06 07:04:49;2018-10-04 13:01:06;1999;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Cnidaria;Balanophyllia europaea;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+109;2018-07-06 07:04:52;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;25.00;25.00;Cnidaria;Paramuricea clavata;23.00;Low;100;Temperature anomaly;;NA;NA;;231;1;86;1963;Port-Cros;1;101;Full name: e-mail: web page: ;;0
+110;2018-07-06 07:04:58;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Riou;FR;43.21000;5.38000;Summer;25.00;25.00;Cnidaria;Paramuricea clavata;27.00;Low;100;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;101;Full name: e-mail: web page: ;;0
+111;2018-07-06 07:05:04;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Riou;FR;43.21000;5.38000;Summer;10.00;10.00;Cnidaria;Paramuricea clavata;27.00;Low;100;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;101;Full name: e-mail: web page: ;;0
+112;2018-07-06 07:05:10;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Riou;FR;43.21000;5.38000;Summer;40.00;5.00;Cnidaria;Paramuricea clavata;50.00;Moderate;100;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;102;Full name: e-mail: web page: ;;0
+113;2018-07-06 07:05:10;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Gulf of La Spezia (Bay of Fiascherino);;44.10000;9.82000;Summer;7.00;7.00;Cnidaria;Cladocora caespitosa;35.00;Moderate;23;Temperature anomaly;;NA;NA;;231;0;;0;;1;97;Full name: e-mail: web page: ;;0
+114;2018-07-06 07:05:18;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;10.00;0.00;Porifera;Horny sponge;;;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+115;2018-07-06 07:05:26;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;27.00;10.00;Rhodophyta;Encrusting coralline algae;;;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+116;2018-07-06 07:05:33;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;27.00;10.00;Cnidaria;Cladocora caespitosa;;;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+117;2018-07-06 07:05:40;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;27.00;10.00;Cnidaria;Parazoanthus axinellae;;;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+118;2018-07-06 07:05:47;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;21.00;21.00;Cnidaria;Paramuricea clavata;90.00;Severe;120;Temperature anomaly;;;Fungi;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+119;2018-07-06 07:05:55;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tinetto Island;;44.02000;9.85000;Summer;21.00;21.00;Cnidaria;Paramuricea clavata;78.00;Severe;120;Temperature anomaly;;;Fungi;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+120;2018-07-06 07:06:02;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tinetto Rocky Shoal;;44.02000;9.85000;Summer;21.00;21.00;Cnidaria;Paramuricea clavata;90.00;Severe;120;Temperature anomaly;;;Fungi;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+121;2018-07-06 07:06:09;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;27.00;15.00;Cnidaria;Eunicella singularis;65.00;Severe;54;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+122;2018-07-06 07:06:17;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tinetto Island;;44.02000;9.85000;Summer;27.00;15.00;Cnidaria;Eunicella singularis;83.00;Severe;54;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+123;2018-07-06 07:06:24;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tino RockyShoal ;;44.02000;9.85000;Summer;27.00;15.00;Cnidaria;Eunicella singularis;78.00;Severe;54;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+124;2018-07-06 07:06:32;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;27.00;15.00;Cnidaria;Leptogorgia sarmentosa;;Low;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+125;2018-07-06 07:06:39;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;27.00;15.00;Cnidaria;Eunicella verrucosa;;Low;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+126;2018-07-06 07:06:40;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory (Torreta);IT;44.30000;9.19000;Summer;0.00;0.00;Cnidaria;Eunicella cavolinii;70.00;Severe;167;Temperature anomaly;;Disease;Fungi;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+127;2018-07-06 07:06:41;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory (Altare);IT;44.30000;9.19000;Summer;0.00;0.00;Cnidaria;Eunicella cavolinii;83.00;Severe;167;Temperature anomaly;;Disease;Fungi;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+128;2018-07-06 07:06:42;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory (Aurora);IT;44.30000;9.19000;Summer;0.00;0.00;Cnidaria;Eunicella cavolinii;90.00;Severe;167;Temperature anomaly;;Disease;Fungi;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+129;2018-07-06 07:06:43;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Summer;70.00;10.00;Cnidaria;Eunicella singularis;;;;Temperature anomaly;;NA;NA;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+130;2018-07-06 07:06:44;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Summer;70.00;10.00;Cnidaria;Eunicella verrucosa;;;;Temperature anomaly;;NA;NA;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+131;2018-07-06 07:06:46;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory (Punta del Faro South) ;IT;44.30000;9.19000;Summer;45.00;25.00;Cnidaria;Paramuricea clavata;;;150;Temperature anomaly;;NA;NA;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+132;2018-07-06 07:06:47;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory (Punta del Faro East) ;IT;44.30000;9.19000;Summer;45.00;25.00;Cnidaria;Paramuricea clavata;75.00;Severe;150;Temperature anomaly;;NA;NA;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+133;2018-07-06 07:06:48;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Summer;70.00;10.00;Cnidaria;Leptogorgia sarmentosa;;;;Temperature anomaly;;NA;NA;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+134;2018-07-06 07:06:49;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Summer;70.00;10.00;Cnidaria;Corallium rubrum;100.00;Severe;;Temperature anomaly;;NA;NA;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+135;2018-07-06 07:06:50;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Summer;0.00;0.00;Cnidaria;Cladocora caespitosa;;;;Temperature anomaly;;NA;NA;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+136;2018-07-06 07:06:51;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Summer;0.00;0.00;Cnidaria;Parazoanthus axinellae;;;;Temperature anomaly;;NA;NA;;231;1;34;1998;Portofino;1;103;Full name: e-mail: web page: ;;0
+137;2018-07-06 07:06:58;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Gallinaria Island;;44.03000;8.23000;Summer;0.00;0.00;Porifera;Cacospongia spp.;;;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+138;2018-07-06 07:07:05;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Gallinaria Island;;44.03000;8.23000;Summer;0.00;0.00;Porifera;Hippospongia spp.;;;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+139;2018-07-06 07:07:13;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Gallinaria Island;;44.03000;8.23000;Summer;0.00;0.00;Cnidaria;Eunicella verrucosa;;Low;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+140;2018-07-06 07:07:14;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Mesco Point;IT;44.10000;9.64000;Summer;0.00;0.00;Rhodophyta;Encrusting coralline algae;;;;Temperature anomaly;;NA;NA;;231;1;45;1997;Cinque Terre;1;103;Full name: e-mail: web page: ;;0
+141;2018-07-06 07:07:16;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Mesco Point;IT;44.10000;9.64000;Summer;0.00;0.00;Cnidaria;Gorgonians;;;;Temperature anomaly;;NA;NA;;231;1;45;1997;Cinque Terre;1;103;Full name: e-mail: web page: ;;0
+142;2018-07-06 07:07:18;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Mesco Point;IT;44.10000;9.64000;Summer;0.00;0.00;Porifera;Horny sponge;;;;Temperature anomaly;;NA;NA;;231;1;45;1997;Cinque Terre;1;103;Full name: e-mail: web page: ;;0
+143;2018-07-06 07:07:19;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Mesco Point;IT;44.10000;9.64000;Summer;0.00;0.00;Cnidaria;Parazoanthus axinellae;;;;Temperature anomaly;;NA;NA;;231;1;45;1997;Cinque Terre;1;103;Full name: e-mail: web page: ;;0
+144;2018-07-06 07:07:21;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Mesco Point;IT;44.10000;9.64000;Summer;0.00;0.00;Cnidaria;Paramuricea clavata;;Severe;;Temperature anomaly;;NA;NA;;231;1;45;1997;Cinque Terre;1;103;Full name: e-mail: web page: ;;0
+145;2018-07-06 07:07:29;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tuscan Archipelago;IT;42.82814;10.33058;Summer;0.00;0.00;Rhodophyta;Coralline algae;;Severe;;Temperature anomaly;;;NA;;231;1;38;1996;Arcipelago Toscano;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+146;2018-07-06 07:07:36;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tuscan Archipelago;IT;42.82814;10.33058;Summer;0.00;0.00;Porifera;Sponges;;Severe;;Temperature anomaly;;;NA;;231;1;38;1996;Arcipelago Toscano;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+147;2018-07-06 07:07:38;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tuscan Archipelago;IT;42.75000;10.30000;Summer;0.00;0.00;Cnidaria;Corals;;Severe;;Temperature anomaly;;;NA;;231;1;38;1996;Arcipelago Toscano;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+148;2018-07-06 07:07:40;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tuscan Archipelago;IT;42.75000;10.30000;Summer;0.00;0.00;Cnidaria;Gorgonians ;;Severe;;Temperature anomaly;;;NA;;231;1;38;1996;Arcipelago Toscano;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+149;2018-07-06 07:07:40;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tunisia;;37.33795;9.77783;Summer;0.00;0.00;Porifera;Sponges;;;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+150;2018-07-06 07:07:41;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Tunisia;;37.33304;9.79294;Summer;0.00;0.00;Cnidaria;Gorgonians;;;;Temperature anomaly;;;NA;;231;0;;0;;1;103;"Full name: 
+e-mail: 
+web page: ";;0
+151;2018-07-06 07:07:41;2018-10-04 13:01:06;1999;Aegean Sea;Mediterranean Sea;North Aegean ;;40.69000;24.85000;Summer;0.00;0.00;Cnidaria;Eunicella singularis;;;;Temperature anomaly;;Mucillagenous blooms;Mucillagenous blooms;;229;0;;0;;1;103;Full name: e-mail: web page: ;;0
+152;2018-07-06 07:07:42;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;10.00;0.00;Porifera;Ircinia variabilis;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+153;2018-07-06 07:07:42;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;25.00;0.00;Porifera;Spongia officinalis;;Severe;;Temperature anomaly;;NA;NA;;231;0;;0;;1;104;Full name: e-mail: web page: ;;0
+154;2018-07-06 07:07:43;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;25.00;0.00;Porifera;Spongia agaricina;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+155;2018-07-06 07:07:43;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;25.00;0.00;Porifera;Hippospongia communis;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+156;2018-07-06 07:07:44;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;20.00;0.00;Porifera;Cacospongia scalaris;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+157;2018-07-06 07:07:44;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;10.00;0.00;Porifera;Ircinia dendroides;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+158;2018-07-06 07:07:45;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;10.00;0.00;Porifera;Ircinia oros;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+159;2018-07-06 07:07:45;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;10.00;0.00;Porifera;Cacospongia mollior;;Moderate;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+160;2018-07-06 07:07:46;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;25.00;0.00;Porifera;Reniera fulva;;Moderate;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+161;2018-07-06 07:07:47;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;10.00;0.00;Porifera;Crambe crambe;;Low;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+162;2018-07-06 07:07:47;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;45.00;0.00;Cnidaria;Paramuricea clavata;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+163;2018-07-06 07:07:48;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;30.00;0.00;Cnidaria;Eunicella singularis;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+164;2018-07-06 07:07:48;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;30.00;0.00;Cnidaria;Eunicella cavolinii;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+165;2018-07-06 07:07:49;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;15.00;0.00;Cnidaria;Cladocora caespitosa;;Moderate;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+166;2018-07-06 07:07:49;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;38.00;37.00;Cnidaria;Eunicella verrucosa;;Low;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+167;2018-07-06 07:07:50;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;15.00;0.00;Ascidiacea;Microcosmus spp.;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+168;2018-07-06 07:07:50;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Saint-Tropez;;43.27000;6.63000;Summer;10.00;0.00;Ascidiacea;Halocynthia papillosa;;Low;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+169;2018-07-06 07:07:53;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;10.00;0.00;Porifera;Ircinia variabilis;;Severe;;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+170;2018-07-06 07:07:56;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;25.00;0.00;Porifera;Spongia officinalis;75.00;Severe;;Temperature anomaly;;NA;NA;;231;1;86;1963;Port-Cros;1;104;Full name: e-mail: web page: ;;0
+171;2018-07-06 07:07:59;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;25.00;0.00;Porifera;Spongia agaricina;;Severe;;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+172;2018-07-06 07:08:01;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;25.00;0.00;Porifera;Hippospongia communis;75.00;Severe;;Temperature anomaly;;NA;NA;;231;1;86;1963;Port-Cros;1;104;Full name: e-mail: web page: ;;0
+173;2018-07-06 07:08:04;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;20.00;0.00;Porifera;Cacospongia scalaris;;Severe ;;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+174;2018-07-06 07:08:07;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;10.00;0.00;Porifera;Ircinia oros;;Low;;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+175;2018-07-06 07:08:10;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;10.00;0.00;Porifera;Crambe crambe;;Low;;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+176;2018-07-06 07:08:13;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;45.00;0.00;Cnidaria;Paramuricea clavata;;Severe;;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+177;2018-07-06 07:08:15;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;30.00;0.00;Cnidaria;Eunicella singularis;;Severe;;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+178;2018-07-06 07:08:18;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;30.00;0.00;Cnidaria;Eunicella cavolinii;;Severe;;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+179;2018-07-06 07:08:21;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Port-Cros;FR;42.98000;6.39000;Summer;15.00;0.00;Cnidaria;Cladocora caespitosa;;Moderate;;Temperature anomaly;;;NA;;231;1;86;1963;Port-Cros;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+180;2018-07-06 07:08:28;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;10.00;0.00;Porifera;Ircinia variabilis;;Severe;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+181;2018-07-06 07:08:36;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;25.00;0.00;Porifera;Spongia officinalis;;Moderate;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+182;2018-07-06 07:08:43;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.15435;5.61333;Autumn;25.00;0.00;Porifera;Spongia agaricina;;Moderate;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+183;2018-07-06 07:08:51;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;25.00;0.00;Porifera;Hippospongia communis;;Moderate;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+184;2018-07-06 07:08:58;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;20.00;0.00;Porifera;Cacospongia scalaris;;Moderate;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+185;2018-07-06 07:09:05;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;15.00;0.00;Porifera;Clathrina clathrus;;Low;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+186;2018-07-06 07:09:12;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;15.00;0.00;Porifera;Aplysina cavernicola;;Low;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+187;2018-07-06 07:09:20;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;45.00;0.00;Cnidaria;Paramuricea clavata;;Severe;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+188;2018-07-06 07:09:27;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;30.00;0.00;Cnidaria;Eunicella singularis;;Severe;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+189;2018-07-06 07:09:34;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;30.00;0.00;Cnidaria;Eunicella cavolinii;;Moderate;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+190;2018-07-06 07:09:42;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Maire;FR;43.55153;7.14558;Autumn;14.00;14.00;Cnidaria;Corallium rubrum;10.00;Low;278;Temperature anomaly;;;NA;;231;1;185;2015;Cap d'Antibes;1;82;"Full name: 
+e-mail: 
+web page: ";;0
+191;2018-07-06 07:09:49;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16462;5.61000;Autumn;14.00;14.00;Cnidaria;Corallium rubrum;58.00;Moderate;201;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;82;"Full name: 
+e-mail: 
+web page: ";;0
+192;2018-07-06 07:09:57;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16462;5.61000;Autumn;23.00;23.00;Cnidaria;Corallium rubrum;80.00;Severe;139;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;82;"Full name: 
+e-mail: 
+web page: ";;0
+193;2018-07-06 07:10:03;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Ile Riou (Grotte sud);FR;43.21000;5.38000;Autumn;26.00;26.00;Cnidaria;Corallium rubrum;43.00;Moderate;135;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;82;Full name: e-mail: web page: ;;0
+194;2018-07-06 07:10:09;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Ile Riou (Entrance of Grotte sud);FR;43.21000;5.38000;Autumn;24.00;24.00;Cnidaria;Corallium rubrum;63.00;Severe;118;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;82;Full name: e-mail: web page: ;;0
+195;2018-07-06 07:10:15;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Ile Riou (Moyade cave);FR;43.21000;5.38000;Autumn;23.00;23.00;Cnidaria;Corallium rubrum;5.00;;196;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;82;Full name: e-mail: web page: ;;0
+196;2018-07-06 07:10:21;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Ile Riou (Moyade cave entrance);FR;43.21000;5.38000;Autumn;23.00;23.00;Cnidaria;Corallium rubrum;40.00;Moderate;137;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;82;Full name: e-mail: web page: ;;0
+197;2018-07-06 07:10:27;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Ile Plane (Grotte Peres);FR;43.18000;5.40000;Autumn;14.00;14.00;Cnidaria;Corallium rubrum;60.00;Severe;266;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;82;Full name: e-mail: web page: ;;0
+198;2018-07-06 07:10:33;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Ile Plane (Grotte Peres entrance);FR;43.18000;5.40000;Autumn;15.00;15.00;Cnidaria;Corallium rubrum;70.00;Severe;279;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;82;Full name: e-mail: web page: ;;0
+199;2018-07-06 07:10:40;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Sormiou (Cave entrance);FR;43.21000;5.39000;Autumn;17.00;17.00;Cnidaria;Corallium rubrum;28.00;Low;331;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;82;Full name: e-mail: web page: ;;0
+200;2018-07-06 07:10:46;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Sormiou (Cave);FR;43.21000;5.39000;Autumn;13.00;13.00;Cnidaria;Corallium rubrum;10.00;Low;166;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;82;Full name: e-mail: web page: ;;0
+201;2018-07-06 07:10:47;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Nice;;43.67979;7.39105;Autumn;30.00;0.00;Cnidaria;Corallium rubrum;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+202;2018-07-06 07:10:55;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16462;5.61000;Autumn;15.00;0.00;Cnidaria;Cladocora caespitosa;;Moderate;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+203;2018-07-06 07:11:02;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16462;5.61000;Autumn;10.00;0.00;Cnidaria;Oculina patagonica;;Moderate;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+204;2018-07-06 07:11:09;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;30.00;0.00;Bryozoa;Adeonella calveti;;Low;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+205;2018-07-06 07:11:17;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;30.00;0.00;Bryozoa;Myriapora truncata;;Low;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+206;2018-07-06 07:11:24;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16460;5.57899;Autumn;30.00;0.00;Bryozoa;Turbicellepora avicularis;;Low;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+207;2018-07-06 07:11:31;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16462;5.61000;Autumn;30.00;0.00;Bryozoa;Pentapora fascialis;;Low;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+208;2018-07-06 07:11:38;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16462;5.61000;Autumn;15.00;0.00;Mol. Bivalvia;Neopycnodonte cochlear;;Low;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+209;2018-07-06 07:11:46;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16462;5.61000;Autumn;45.00;0.00;Mol. Bivalvia;Lima lima;;Low;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+210;2018-07-06 07:11:54;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16462;5.61000;Autumn;5.00;0.00;Ascidiacea;Microcosmus spp.;;Severe;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+211;2018-07-06 07:12:01;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16462;5.61000;Autumn;10.00;0.00;Ascidiacea;Halocynthia papillosa;;Low;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+212;2018-07-06 07:12:08;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;La Ciotat;FR;43.16462;5.61000;Autumn;10.00;0.00;Ascidiacea;Pyura dura;;Low;;Temperature anomaly;;;NA;;231;1;150;2012;Calanques;1;104;"Full name: 
+e-mail: 
+web page: ";;0
+213;2018-07-06 07:12:13;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Illa des Poros - Menorca;ES;40.09000;4.07000;Summer;40.00;20.00;Cnidaria;Eunicella singularis;73.00;Severe;129;Temperature anomaly;;NA;NA;;231;1;133;1999;Norte De Menorca;1;105;Full name: e-mail: web page: ;;0
+214;2018-07-06 07:12:17;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Illa des Poros - Menorca;ES;40.09000;4.07000;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;Moderate;;Temperature anomaly;;NA;NA;;231;1;133;1999;Norte De Menorca;1;105;Full name: e-mail: web page: ;;0
+215;2018-07-06 07:12:21;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Cap de Cavalleria - Menorca;ES;40.08000;4.09000;Summer;35.00;15.00;Cnidaria;Eunicella singularis;59.00;Moderate;317;Temperature anomaly;;NA;NA;;231;1;133;1999;Norte De Menorca;1;105;Full name: e-mail: web page: ;;0
+216;2018-07-06 07:12:25;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Cap de Cavalleria - Menorca;ES;40.08000;4.09000;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;Severe;;Temperature anomaly;;;NA;;231;1;133;1999;Norte De Menorca;1;105;"Full name: 
+e-mail: 
+web page: ";;0
+217;2018-07-06 07:12:29;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Cap Roig-Patró Pere - Menorca;ES;40.08000;4.10000;Summer;40.00;15.00;Cnidaria;Eunicella singularis;52.00;Moderate;301;Temperature anomaly;;NA;NA;;231;1;133;1999;Norte De Menorca;1;105;Full name: e-mail: web page: ;;0
+218;2018-07-06 07:12:34;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Cap Roig-Patró Pere - Menorca;ES;40.08000;4.10000;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;Severe;;Temperature anomaly;;;NA;;231;1;133;1999;Norte De Menorca;1;105;"Full name: 
+e-mail: 
+web page: ";;0
+219;2018-07-06 07:12:41;2018-10-04 13:01:06;1999;Western Mediterranean;Mediterranean Sea;Escull de NAPonça - Menorca;ES;40.06572;4.13498;Summer;28.00;15.00;Cnidaria;Eunicella singularis;54.00;Moderate;353;Temperature anomaly;;;NA;;231;1;133;1999;Norte De Menorca;1;105;"Full name: 
+e-mail: 
+web page: ";;0
+220;2018-07-06 07:12:47;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Escull de NAPonça - Menorca;ES;40.06572;4.13498;Summer;0.00;0.00;Cnidaria;Eunicella cavolinii;;Severe;;Temperature anomaly;;;NA;;231;1;133;1999;Norte De Menorca;1;105;"Full name: 
+e-mail: 
+web page: ";;0
+221;2018-07-06 07:12:55;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Escull de NAPonça - Menorca;ES;40.06572;4.13498;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;Severe;;Temperature anomaly;;;NA;;231;1;133;1999;Norte De Menorca;1;105;"Full name: 
+e-mail: 
+web page: ";;0
+222;2018-07-06 07:12:56;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Punta NAGuiemassa - Menorca;;40.06000;4.15000;Summer;27.00;15.00;Cnidaria;Eunicella singularis;62.00;Severe;263;Temperature anomaly;;NA;NA;;231;0;;0;;1;105;Full name: e-mail: web page: ;;0
+223;2018-07-06 07:12:56;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Punta NAGuiemassa - Menorca;;40.06000;4.15000;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;Severe;;Temperature anomaly;;;NA;;231;0;;0;;1;105;"Full name: 
+e-mail: 
+web page: ";;0
+224;2018-07-06 07:12:57;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Cova de Ses BruiNAes-Menorca;;40.05000;4.17000;Summer;28.00;15.00;Cnidaria;Eunicella singularis;58.00;Severe;286;Temperature anomaly;;NA;NA;;231;0;;0;;1;105;Full name: e-mail: web page: ;;0
+225;2018-07-06 07:12:57;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Cova de Ses BruiNAes-Menorca;;40.05000;4.17000;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;Severe ;;Temperature anomaly;;;NA;;231;0;;0;;1;105;"Full name: 
+e-mail: 
+web page: ";;0
+226;2018-07-06 07:13:05;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;10.00;10.00;Bryozoa;Pentapora fascialis;;Severe ;;Temperature anomaly;;;NA;;231;0;;0;;1;106;"Full name: 
+e-mail: 
+web page: ";;0
+227;2018-07-06 07:13:12;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;22.00;22.00;Bryozoa;Pentapora fascialis;;Severe ;;Temperature anomaly;;;NA;;231;0;;0;;1;106;"Full name: 
+e-mail: 
+web page: ";;0
+228;2018-07-06 07:13:19;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Elba Island (Tuscan archipielago);IT;42.82814;10.33058;Autumn;35.00;15.00;Cnidaria;Paramuricea clavata;22.85;Low;35;;;;;;231;1;38;1996;Arcipelago Toscano;1;107;"Full name: 
+e-mail: 
+web page: ";;0
+229;2018-07-06 07:13:26;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Elba Island (Tuscan archipielago);IT;42.82814;10.33058;Autumn;35.00;15.00;Cnidaria;Eunicella cavolinii;100.00;Severe;35;;;;;;231;1;38;1996;Arcipelago Toscano;1;107;"Full name: 
+e-mail: 
+web page: ";;0
+230;2018-07-06 07:13:33;2018-10-04 13:01:07;1999;Western Mediterranean;Mediterranean Sea;Elba Island (Tuscan archipielago);IT;42.82814;10.33058;Autumn;35.00;15.00;Cnidaria;Eunicella singularis;87.50;Severe;40;;;;;;231;1;38;1996;Arcipelago Toscano;1;107;"Full name: 
+e-mail: 
+web page: ";;0
+231;2018-07-06 07:13:34;2018-10-04 13:01:07;2000;Aegean Sea;Mediterranean Sea;Crete;;35.09519;24.42535;;40.00;0.00;Porifera;Sponges;;Low;;;;;;;229;0;;0;;1;194;"Full name: 
+e-mail: 
+web page: ";;0
+232;2018-07-06 07:13:41;2018-10-04 13:01:07;2000;Western Mediterranean;Mediterranean Sea;Elba Island (Tuscan archipielago);IT;42.82814;10.33058;Summer;35.00;15.00;Cnidaria;Paramuricea clavata;40.00;Moderate;25;;;;;;231;1;38;1996;Arcipelago Toscano;1;107;"Full name: 
+e-mail: 
+web page: ";;0
+233;2018-07-06 07:13:48;2018-10-04 13:01:07;2000;Western Mediterranean;Mediterranean Sea;Elba Island (Tuscan archipielago);IT;42.82814;10.33058;Summer;35.00;15.00;Cnidaria;Eunicella cavolinii;64.00;Severe;35;;;;;;231;1;38;1996;Arcipelago Toscano;1;107;"Full name: 
+e-mail: 
+web page: ";;0
+234;2018-07-06 07:13:56;2018-10-04 13:01:07;2000;Western Mediterranean;Mediterranean Sea;Elba Island (Tuscan archipielago);IT;42.82814;10.33058;Summer;35.00;15.00;Cnidaria;Eunicella singularis;60.00;Severe;31;;;;;;231;1;38;1996;Arcipelago Toscano;1;107;"Full name: 
+e-mail: 
+web page: ";;0
+235;2018-07-06 07:13:56;2018-10-04 13:01:07;2001;Aegean Sea;Mediterranean Sea;Thermaikos Bay (Chalkidiki);;40.30000;22.55000;Autumn;0.00;0.00;Cnidaria;Cladocora caespitosa;;;;Temperature anomaly;;;NA;;229;0;;0;;1;195;"Full name: 
+e-mail: 
+web page: ";;0
+236;2018-07-06 07:13:57;2018-10-04 13:01:07;2001;Aegean Sea;Mediterranean Sea;Thermaikos Bay (Chalkidiki);;40.30000;22.55000;Autumn;0.00;0.00;Porifera;Aplysina aerophoba;;;;Temperature anomaly;;;NA;;229;0;;0;;1;196;"Full name: 
+e-mail: 
+web page: ";;0
+237;2018-07-06 07:13:58;2018-10-04 13:01:07;2001;Western Mediterranean;Mediterranean Sea;Tavolara Island;IT;40.90000;9.71000;Summer;22.00;12.00;Cnidaria;Eunicella cavolinii;;Moderate;374;;;;NA;;231;1;37;1997;Tavolara - Punta Coda Cavallo;1;170;"Full name: 
+e-mail: 
+web page: ";;0
+238;2018-07-06 07:13:59;2018-10-04 13:01:07;2001;Levantine Sea;Mediterranean Sea;Sdot-Yam;;32.29000;34.53000;Summer;6.00;3.00;Cnidaria;Oculina patagonica;;;62;Temperature anomaly;;NA;NA;;226;0;;0;;1;108;Full name: e-mail: web page: ;;0
+239;2018-07-06 07:14:00;2018-10-04 13:01:07;2002;Levantine Sea;Mediterranean Sea;Sdot-Yam;;32.29000;34.53000;Summer;6.00;3.00;Cnidaria;Oculina patagonica;47.00;Moderate;62;Temperature anomaly;;NA;NA;;226;0;;0;;1;108;Full name: e-mail: web page: ;;0
+240;2018-07-06 07:14:01;2018-10-04 13:01:07;2002;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Summer;10.00;3.00;Cnidaria;Parazoanthus axinellae;;Low;;Temperature anomaly;;;Fungi;;231;1;34;1998;Portofino;1;109;"Full name: 
+e-mail: 
+web page: ";;0
+241;2018-07-06 07:14:08;2018-10-04 13:01:07;2002;Western Mediterranean;Mediterranean Sea;Gallinaria Island;;44.03000;8.23000;Summer;10.00;0.00;Cnidaria;Parazoanthus axinellae;;;;Temperature anomaly;;;Fungi;;231;0;;0;;1;109;"Full name: 
+e-mail: 
+web page: ";;0
+242;2018-07-06 07:14:10;2018-10-04 13:01:07;2002;Western Mediterranean;Mediterranean Sea;Bell'ommo (Ischia);IT;40.70000;13.93000;Summer;22.00;18.00;Cnidaria;Eunicella singularis;65.00;Severe;140;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;171;"Full name: 
+e-mail: 
+web page: ";;0
+243;2018-07-06 07:14:11;2018-10-04 13:01:07;2002;Western Mediterranean;Mediterranean Sea;Solchiaro (Ischia);IT;40.70000;13.93000;Summer;22.00;15.00;Cnidaria;Eunicella singularis;97.00;Severe;140;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;172;"Full name: 
+e-mail: 
+web page: ";;0
+244;2018-07-06 07:14:13;2018-10-04 13:01:07;2002;Western Mediterranean;Mediterranean Sea;Pizzaco (Procida);IT;40.75000;14.02000;Summer;32.00;26.00;Cnidaria;Paramuricea clavata;80.00;Severe;120;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;173;"Full name: 
+e-mail: 
+web page: ";;0
+245;2018-07-06 07:14:13;2018-10-04 13:01:07;2002;Western Mediterranean;Mediterranean Sea;Leghorn;;43.27000;10.20000;Summer;32.00;26.00;Cnidaria;Paramuricea clavata;24.00;Low;1700;Temperature anomaly;;;NA;;231;0;;0;;1;174;"Full name: 
+e-mail: 
+web page: ";;0
+246;2018-07-06 07:14:21;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;18.00;6.00;Cnidaria;Cladocora caespitosa;;Moderate;559;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;96;"Full name: 
+e-mail: 
+web page: ";599 bleached;0
+247;2018-07-06 07:14:21;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Leghorn;;43.27000;10.20000;Summer;32.00;26.00;Cnidaria;Paramuricea clavata;100.00;Severe;1700;Temperature anomaly;;;NA;;231;0;;0;;1;175;"Full name: 
+e-mail: 
+web page: ";;0
+248;2018-07-06 07:14:27;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Riou;FR;43.21000;5.38000;Summer;10.00;10.00;Cnidaria;Paramuricea clavata;46.00;Moderate;100;Temperature anomaly;;Disease;Disease;;231;1;150;2012;Calanques;1;101;Full name: e-mail: web page: ;;0
+249;2018-07-06 07:14:31;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Autumn;20.00;5.00;Cnidaria;Cladocora caespitosa;46.00;Moderate;110;Temperature anomaly;;NA;NA;;231;1;136;1990;Illes Columbretes;1;110;Full name: e-mail: web page: ;;0
+250;2018-07-06 07:14:33;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Portofino Promontory;IT;44.30000;9.19000;Summer;10.00;3.00;Cnidaria;Parazoanthus axinellae;60.00;Severe;;Temperature anomaly;;;Bacterial infection;;231;1;34;1998;Portofino;1;109;"Full name: 
+e-mail: 
+web page: ";;0
+251;2018-07-06 07:14:40;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of La Spezia (Tino Island) ;;44.01000;9.50000;Summer;21.00;21.00;Cnidaria;Paramuricea clavata;96.00;Severe;20;Temperature anomaly;;;NA;;231;0;;0;;1;111;"Full name: 
+e-mail: 
+web page: ";;0
+252;2018-07-06 07:14:47;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of La Spezia (Tinetto Island) ;;44.01000;9.50000;Summer;21.00;21.00;Cnidaria;Paramuricea clavata;90.00;Severe;54;Temperature anomaly;;;NA;;231;0;;0;;1;111;"Full name: 
+e-mail: 
+web page: ";;0
+253;2018-07-06 07:14:54;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of La Spezia (Tinetto Shoal) ;;44.01000;9.50000;Summer;21.00;21.00;Cnidaria;Paramuricea clavata;99.00;Severe;48;Temperature anomaly;;;NA;;231;0;;0;;1;111;"Full name: 
+e-mail: 
+web page: ";;0
+254;2018-07-06 07:14:58;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Summer;40.00;30.00;Cnidaria;Paramuricea clavata;14.00;Low;316;Temperature anomaly;;NA;NA;;231;1;136;1990;Illes Columbretes;1;112;Full name: e-mail: web page: ;;0
+255;2018-07-06 07:14:59;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Balearic Islands;;39.52000;2.70000;Summer;20.00;15.00;Cnidaria;Eunicella singularis;9.50;Low;896;Temperature anomaly;;;NA;;231;0;;0;;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+256;2018-07-06 07:14:59;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Balearic Islands;;39.52000;2.70000;Summer;40.00;0.00;Cnidaria;Cladocora caespitosa;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+257;2018-07-06 07:15:00;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Balearic Islands;;39.52000;2.70000;Summer;40.00;0.00;Porifera;Ircinia variabilis;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+258;2018-07-06 07:15:00;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Balearic Islands;;39.52000;2.70000;Summer;40.00;0.00;Bryozoa;Myriapora truncata;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+259;2018-07-06 07:15:01;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Catalan coast;ES;42.06025;3.21590;Summer;20.00;15.00;Cnidaria;Paramuricea clavata;4.80;Low;1067;Temperature anomaly;;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+260;2018-07-06 07:15:02;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Catalan coast;ES;42.06025;3.21590;Summer;15.00;10.00;Cnidaria;Eunicella singularis;2.70;Low;349;Temperature anomaly;;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+261;2018-07-06 07:15:02;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Catalan coast;ES;42.06025;3.21590;Summer;20.00;0.00;Cnidaria;Corallium rubrum;;;;Temperature anomaly;;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+262;2018-07-06 07:15:03;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;5.00;Cnidaria;Paramuricea clavata;28.50;Low;1680;Temperature anomaly;;;;;231;0;;0;;1;113;Full name: e-mail: web page: ;;0
+263;2018-07-06 07:15:03;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;15.00;Cnidaria;Eunicella cavolinii;14.50;Low;1147;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+264;2018-07-06 07:15:04;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Cnidaria;Eunicella singularis;;;;Temperature anomaly;;Disease;Disease;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+265;2018-07-06 07:15:05;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;5.00;Cnidaria;Corallium rubrum;33.50;Moderate;1140;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+266;2018-07-06 07:15:05;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+267;2018-07-06 07:15:06;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Porifera;Ircinia dendroides;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+268;2018-07-06 07:15:06;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Porifera;Ircinia variabilis;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+269;2018-07-06 07:15:07;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Porifera;Agelas oroides;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+270;2018-07-06 07:15:07;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Porifera;Crambe crambe;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+271;2018-07-06 07:15:08;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Porifera;Cacospongia spp.;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+272;2018-07-06 07:15:08;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+273;2018-07-06 07:15:09;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+274;2018-07-06 07:15:09;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Mol. Bivalvia;Spondylus gaederopus;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+275;2018-07-06 07:15:10;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Mol. Bivalvia;Arca spp.;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+276;2018-07-06 07:15:11;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Mol. Bivalvia;Ostrea edulis;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+277;2018-07-06 07:15:11;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Provence coast;;43.29000;5.35000;Summer;25.00;0.00;Mol. Bivalvia;Lithophaga lithophaga;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+278;2018-07-06 07:15:12;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;25.00;Cnidaria;Paramuricea clavata;82.50;Severe;300;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+279;2018-07-06 07:15:12;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;10.00;Cnidaria;Eunicella cavolinii;90.00;Severe;100;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+280;2018-07-06 07:15:13;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;25.00;Cnidaria;Eunicella singularis;85.00;Severe;100;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+281;2018-07-06 07:15:13;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Cnidaria;Eunicella verrucosa;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+282;2018-07-06 07:15:14;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Cnidaria;Leptogorgia sarmentosa;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+283;2018-07-06 07:15:14;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;25.00;Cnidaria;Corallium rubrum;50.00;Moderate;300;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+284;2018-07-06 07:15:15;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Cnidaria;Cladocora caespitosa;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+285;2018-07-06 07:15:15;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Cnidaria;Balanophyllia europaea;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+286;2018-07-06 07:15:16;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Cnidaria;Parazoanthus axinellae;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+287;2018-07-06 07:15:16;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+288;2018-07-06 07:15:17;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Porifera;Ircinia variabilis;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+289;2018-07-06 07:15:17;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Porifera;Ircinia oros;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+290;2018-07-06 07:15:18;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Porifera;Agelas oroides;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+291;2018-07-06 07:15:19;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+292;2018-07-06 07:15:19;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Mol. Bivalvia;Spondylus gaederopus;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+293;2018-07-06 07:15:20;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Genoa;;44.39000;8.91000;Summer;30.00;0.00;Mol. Bivalvia;Arca spp.;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+294;2018-07-06 07:15:20;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;25.00;15.00;Cnidaria;Paramuricea clavata;54.40;Moderate;1417;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+295;2018-07-06 07:15:21;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;25.00;15.00;Cnidaria;Paramuricea clavata;54.40;Moderate;1417;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+296;2018-07-06 07:15:21;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;20.00;15.00;Cnidaria;Eunicella cavolinii;17.10;Low;848;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+297;2018-07-06 07:15:22;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.35000;9.21341;Summer;20.00;15.00;Cnidaria;Eunicella cavolinii;17.10;Low;848;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+298;2018-07-06 07:15:22;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;25.00;20.00;Cnidaria;Corallium rubrum;20.20;Low;399;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+299;2018-07-06 07:15:23;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;25.00;20.00;Cnidaria;Corallium rubrum;20.20;Low;399;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+300;2018-07-06 07:15:23;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;30.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+301;2018-07-06 07:15:24;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;30.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+302;2018-07-06 07:15:24;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;30.00;0.00;Porifera;Ircinia variabilis;;;;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+303;2018-07-06 07:15:25;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;30.00;0.00;Porifera;Ircinia variabilis;;;;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+304;2018-07-06 07:15:25;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;30.00;0.00;Porifera;Crambe crambe;;;;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+305;2018-07-06 07:15:26;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;30.00;0.00;Porifera;Crambe crambe;;;;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+306;2018-07-06 07:15:26;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;30.00;0.00;Porifera;Cacospongia spp.;;;;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+307;2018-07-06 07:15:27;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;30.00;0.00;Porifera;Cacospongia spp.;;;;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+308;2018-07-06 07:15:28;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;30.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+309;2018-07-06 07:15:28;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;30.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+310;2018-07-06 07:15:29;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;30.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+311;2018-07-06 07:15:29;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;30.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+312;2018-07-06 07:15:30;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;30.00;0.00;Bryozoa;Reteporella spp.;;;;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+313;2018-07-06 07:15:30;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;30.00;0.00;Bryozoa;Reteporella spp.;;;;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+314;2018-07-06 07:15:31;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;30.00;0.00;Mol. Bivalvia;Spondylus gaederopus;;;;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+315;2018-07-06 07:15:31;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;30.00;0.00;Mol. Bivalvia;Spondylus gaederopus;;;;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+316;2018-07-06 07:15:32;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;30.00;0.00;Mol. Bivalvia;Lima spp.;;;;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+317;2018-07-06 07:15:32;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31000;9.21341;Summer;30.00;0.00;Mol. Bivalvia;Lima spp.;;;;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+318;2018-07-06 07:15:33;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Scandola (Corsica);FR;42.35000;8.55011;Summer;30.00;0.00;Mol. Bivalvia;Arca spp.;;;;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+319;2018-07-06 07:15:33;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Bonifacio (Sardinia);FR;41.31908;9.21341;Summer;30.00;0.00;Mol. Bivalvia;Arca spp.;;;;Temperature anomaly;;;NA;;231;1;66;1999;Strait Of Bonifacio;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+320;2018-07-06 07:15:34;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Naples;;40.83000;14.29000;Summer;32.00;25.00;Cnidaria;Paramuricea clavata;64.90;Severe;165;Temperature anomaly;;;NA;;231;0;;0;;1;112;"Full name: 
+e-mail: 
+web page: ";;0
+321;2018-07-06 07:15:34;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Naples;;40.83000;14.29000;Summer;30.00;0.00;Cnidaria;Eunicella cavolinii;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+322;2018-07-06 07:15:35;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Naples;;40.83000;14.29000;Summer;22.00;15.00;Cnidaria;Eunicella singularis;86.60;Severe;329;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+323;2018-07-06 07:15:35;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Naples;;40.83000;14.29000;Summer;30.00;0.00;Cnidaria;Cladocora caespitosa;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+324;2018-07-06 07:15:36;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Gulf of Naples;;40.83000;14.29000;Summer;30.00;0.00;Cnidaria;Balanophyllia europaea;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;112;Full name: e-mail: web page: ;;0
+325;2018-07-06 07:15:42;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Ile Riou;FR;43.21000;5.38000;Summer;15.00;5.00;Cnidaria;Paramuricea clavata;30.00;Moderate;100;Temperature anomaly;;Disease;Disease;;231;1;150;2012;Calanques;1;102;Full name: e-mail: web page: ;;0
+326;2018-07-06 07:15:46;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Medes Islands;ES;42.04000;3.22000;Summer;20.00;15.00;Cnidaria;Paramuricea clavata;7.00;Low;100;Temperature anomaly;;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;102;Full name: e-mail: web page: ;;0
+327;2018-07-06 07:15:53;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park (Rt Lenga);HR;42.78935;17.41333;Summer;12.00;4.00;Cnidaria;Balanophyllia europaea;21.00;Low;28;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;114;"Full name: 
+e-mail: 
+web page: ";;0
+328;2018-07-06 07:16:00;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Rhodophyta;Lithophyllum stictaeforme;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+329;2018-07-06 07:16:08;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Rhodophyta;Lithophyllum stictaeforme;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+330;2018-07-06 07:16:15;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Bryozoa;Pentapora fascialis;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+331;2018-07-06 07:16:23;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Bryozoa;Pentapora fascialis;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+332;2018-07-06 07:16:30;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+333;2018-07-06 07:16:37;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+334;2018-07-06 07:16:45;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+335;2018-07-06 07:16:52;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Bryozoa;Reteporella beaniana;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+336;2018-07-06 07:16:59;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Bryozoa;Reteporella beaniana;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+337;2018-07-06 07:17:06;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Cnidaria;Paramuricea clavata;80.00;Severe;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+338;2018-07-06 07:17:14;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Cnidaria;Paramuricea clavata;80.00;Severe;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+339;2018-07-06 07:17:22;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Cnidaria;Leptosammia pruvoti;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+340;2018-07-06 07:17:22;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;0.00;0.00;Cnidaria;Leptosammia pruvoti;;;;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+341;2018-07-06 07:17:30;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Cnidaria;Leptosammia pruvoti;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+342;2018-07-06 07:17:37;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Cnidaria;Leptosammia pruvoti;;;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+343;2018-07-06 07:17:44;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Cnidaria;Leptosammia pruvoti;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+344;2018-07-06 07:17:51;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Porifera;Agelas oroides;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+345;2018-07-06 07:17:59;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Agelas oroides;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+346;2018-07-06 07:18:06;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Agelas oroides;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+347;2018-07-06 07:18:13;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Porifera;Aplysina cavernicola;;;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+348;2018-07-06 07:18:21;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Porifera;Aplysina cavernicola;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+349;2018-07-06 07:18:29;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Aplysina cavernicola;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+350;2018-07-06 07:18:36;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Aplysina cavernicola;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+351;2018-07-06 07:18:36;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;0.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+352;2018-07-06 07:18:44;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+353;2018-07-06 07:18:51;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+354;2018-07-06 07:18:58;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+355;2018-07-06 07:19:06;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+356;2018-07-06 07:19:13;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Ircinia dendroides;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+357;2018-07-06 07:19:21;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Ircinia dendroides;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+358;2018-07-06 07:19:21;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;0.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+359;2018-07-06 07:19:30;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.87810;15.16663;Summer;0.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+360;2018-07-06 07:19:38;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+361;2018-07-06 07:19:45;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+362;2018-07-06 07:19:53;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+363;2018-07-06 07:20:01;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+364;2018-07-06 07:20:09;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87806;15.16663;Summer;0.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+365;2018-07-06 07:20:16;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+366;2018-07-06 07:20:24;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+367;2018-07-06 07:20:24;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;0.00;0.00;Cnidaria;Caryophyllia inornata;5.00;Low;;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+368;2018-07-06 07:20:33;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Cnidaria;Caryophyllia inornata;5.00;Low;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+369;2018-07-06 07:20:41;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Cnidaria;Caryophyllia inornata;5.00;Low;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+370;2018-07-06 07:20:48;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Cnidaria;Caryophyllia inornata;5.00;Low;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+371;2018-07-06 07:20:56;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Cnidaria;Caryophyllia inornata;5.00;Low;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+372;2018-07-06 07:21:03;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Cnidaria;Parazoanthus axinellae;5.00;Low;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+373;2018-07-06 07:21:11;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Cnidaria;Parazoanthus axinellae;5.00;Low;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+374;2018-07-06 07:21:18;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Cnidaria;Parazoanthus axinellae;5.00;Low;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+375;2018-07-06 07:21:26;2018-10-04 13:01:07;2003;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Cnidaria;Parazoanthus axinellae;5.00;Low;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+376;2018-07-06 07:21:36;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Reserve Naturelle de Scandola;FR;42.35854;8.55011;Summer;25.00;5.00;Cnidaria;Paramuricea clavata;55.00;Moderate;100;Temperature anomaly;;;NA;;231;1;64;1975;Scandola;1;102;"Full name: 
+e-mail: 
+web page: ";;0
+377;2018-07-06 07:21:44;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;10.00;10.00;Bryozoa;Pentapora fascialis;;Severe;20;Temperature anomaly;;;NA;;231;0;;0;;1;106;"Full name: 
+e-mail: 
+web page: ";;0
+378;2018-07-06 07:21:52;2018-10-04 13:01:07;2003;Western Mediterranean;Mediterranean Sea;Tino Island;;44.02000;9.85000;Summer;22.00;22.00;Bryozoa;Pentapora fascialis;;Severe;25;Temperature anomaly;;;NA;;231;0;;0;;1;106;"Full name: 
+e-mail: 
+web page: ";;0
+379;2018-07-06 07:21:56;2018-10-04 13:01:07;2004;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Autumn;20.00;5.00;Cnidaria;Cladocora caespitosa;54.00;Moderate;110;Temperature anomaly;;NA;NA;;231;1;136;1990;Illes Columbretes;1;110;Full name: e-mail: web page: ;;0
+380;2018-07-06 07:22:03;2018-10-04 13:01:07;2004;Levantine Sea;Mediterranean Sea;Achziv (SY site);IL;33.05932;35.08965;Summer;3.00;1.00;Cnidaria;Oculina patagonica;70.00;Severe;70;Temperature anomaly;;;NA;;226;1;87;2005;Rosh Hanikra - Akhziv;1;115;"Full name: 
+e-mail: 
+web page: ";;0
+381;2018-07-06 07:22:11;2018-10-04 13:01:07;2004;Levantine Sea;Mediterranean Sea;Achziv (PA site);IL;33.05932;35.08965;Summer;3.00;1.00;Cnidaria;Oculina patagonica;70.00;Severe;70;Temperature anomaly;;;NA;;226;1;87;2005;Rosh Hanikra - Akhziv;1;115;"Full name: 
+e-mail: 
+web page: ";;0
+382;2018-07-06 07:22:18;2018-10-04 13:01:07;2005;Levantine Sea;Mediterranean Sea;Achziv (AC site);IL;33.05932;35.08965;Winter;3.00;1.00;Cnidaria;Oculina patagonica;34.70;Moderate;70;;;;NA;;226;1;87;2005;Rosh Hanikra - Akhziv;1;115;"Full name: 
+e-mail: 
+web page: ";;0
+383;2018-07-06 07:22:26;2018-10-04 13:01:07;2005;Levantine Sea;Mediterranean Sea;Achziv (AC site);IL;33.05932;35.08965;Summer;3.00;1.00;Cnidaria;Oculina patagonica;33.60;Moderate;70;Temperature anomaly;;;NA;;226;1;87;2005;Rosh Hanikra - Akhziv;1;115;"Full name: 
+e-mail: 
+web page: ";;0
+384;2018-07-06 07:22:33;2018-10-04 13:01:07;2005;Levantine Sea;Mediterranean Sea;Achziv (SY site);IL;33.05932;35.08965;Summer;3.00;1.00;Cnidaria;Oculina patagonica;80.00;Severe;70;Temperature anomaly;;;NA;;226;1;87;2005;Rosh Hanikra - Akhziv;1;115;"Full name: 
+e-mail: 
+web page: ";;0
+385;2018-07-06 07:22:40;2018-10-04 13:01:07;2005;Levantine Sea;Mediterranean Sea;Achziv (PA site);IL;33.05932;35.08965;Summer;3.00;1.00;Cnidaria;Oculina patagonica;75.00;Severe;70;Temperature anomaly;;;NA;;226;1;87;2005;Rosh Hanikra - Akhziv;1;115;"Full name: 
+e-mail: 
+web page: ";;0
+386;2018-07-06 07:22:45;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Autumn;20.00;5.00;Cnidaria;Cladocora caespitosa;26.00;Low;70;Temperature anomaly;;NA;NA;;231;1;136;1990;Illes Columbretes;1;110;Full name: e-mail: web page: ;;0
+387;2018-07-06 07:22:49;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Summer;16.00;4.00;Mol. Bivalvia;Spondylus gaederopus;99.00;Severe;720;;;;NA;;231;1;136;1990;Illes Columbretes;1;177;"Full name: 
+e-mail: 
+web page: ";;0
+388;2018-07-06 07:22:55;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Summer;16.00;4.00;Mol. Bivalvia;Barbatia barbata;;;;;;;NA;;231;1;136;1990;Illes Columbretes;1;178;"Full name: 
+e-mail: 
+web page: ";;0
+389;2018-07-06 07:23:04;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Summer;16.00;4.00;Mol. Bivalvia;Arca noae;;;;;;;NA;;231;1;136;1990;Illes Columbretes;1;179;"Full name: 
+e-mail: 
+web page: ";;0
+390;2018-07-06 07:23:15;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;P.ta Solchiaro (Procida);IT;40.75220;14.02679;Summer;20.00;18.00;Cnidaria;Eunicella singularis;22.00;Low;100;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;219;"Full name: 
+e-mail: 
+web page: ";;0
+391;2018-07-06 07:23:23;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;P.ta Solchiaro (Procida);IT;40.75000;14.02679;Summer;18.00;16.00;Cnidaria;Eunicella singularis;5.00;Low;100;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;220;"Full name: 
+e-mail: 
+web page: ";;0
+392;2018-07-06 07:23:25;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;P.ta S. Angelo (Ischia);IT;40.79000;13.89000;Summer;22.00;18.00;Cnidaria;Eunicella singularis;61.20;Severe;180;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;180;"Full name: 
+e-mail: 
+web page: ";;0
+393;2018-07-06 07:23:26;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;P.ta S. Angelo (Ischia);IT;40.79000;13.89000;Summer;22.00;18.00;Cnidaria;Eunicella cavolinii;79.00;Severe;330;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;181;"Full name: 
+e-mail: 
+web page: ";;0
+394;2018-07-06 07:23:28;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;Bell'ommo (Ischia);IT;40.74000;13.93000;Summer;18.00;16.00;Cnidaria;Eunicella singularis;28.00;Low;180;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;182;"Full name: 
+e-mail: 
+web page: ";;0
+395;2018-07-06 07:23:29;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;Bell'ommo (Ischia);IT;40.74000;13.93000;Summer;18.00;16.00;Cnidaria;Eunicella cavolinii;84.70;Severe;234;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;183;"Full name: 
+e-mail: 
+web page: ";;0
+396;2018-07-06 07:23:31;2018-10-04 13:01:07;2005;Western Mediterranean;Mediterranean Sea;Formiche (Ischia);IT;40.74000;13.93000;Summer;18.00;16.00;Cnidaria;Eunicella cavolinii;85.00;Severe;432;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;159;"Full name: 
+e-mail: 
+web page: ";;0
+397;2018-07-06 07:23:37;2018-10-04 13:01:07;2006;Western Mediterranean;Mediterranean Sea;Riou;FR;43.21000;5.38000;Summer;10.00;10.00;Cnidaria;Paramuricea clavata;10.00;Low;100;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;101;Full name: e-mail: web page: ;;0
+398;2018-07-06 07:23:42;2018-10-04 13:01:07;2006;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Autumn;20.00;5.00;Cnidaria;Cladocora caespitosa;38.00;Moderate;250;Temperature anomaly;;NA;NA;;231;1;136;1990;Illes Columbretes;1;110;Full name: e-mail: web page: ;;0
+399;2018-07-06 07:23:48;2018-10-04 13:01:07;2006;Western Mediterranean;Mediterranean Sea;Ile Riou;FR;43.21000;5.38000;Summer;20.00;0.00;Cnidaria;Paramuricea clavata;7.00;Low;100;Temperature anomaly;;NA;NA;;231;1;150;2012;Calanques;1;102;Full name: e-mail: web page: ;;0
+400;2018-07-06 07:23:56;2018-10-04 13:01:07;2006;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;18.00;6.00;Cnidaria;Cladocora caespitosa;;Moderate;277;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;96;"Full name: 
+e-mail: 
+web page: ";227 bleached;0
+401;2018-07-06 07:24:04;2018-10-04 13:01:07;2006;Adriatic Sea;Mediterranean Sea;Mljet National Park (Rt Lenga);HR;42.78935;17.41333;Summer;12.00;4.00;Cnidaria;Balanophyllia europaea;43.00;Moderate;27;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;114;"Full name: 
+e-mail: 
+web page: ";;0
+402;2018-07-06 07:24:04;2018-10-04 13:01:07;2006;Western Mediterranean;Mediterranean Sea;Villefranque Bay ;;43.42000;7.18000;Summer;20.00;20.00;Rhodophyta;Lithophyllum cabiochae;;;;Temperature anomaly;;NA;NA;;231;0;;0;;1;116;Full name: e-mail: web page: ;;0
+403;2018-07-06 07:24:05;2018-10-04 13:01:07;2007;Aegean Sea;Mediterranean Sea;Elounda (Crete);;35.25300;25.76000;Autumn;10.00;5.00;Porifera;Sarcotragus foetidus;;Severe;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+404;2018-07-06 07:24:06;2018-10-04 13:01:07;2007;Aegean Sea;Mediterranean Sea;Elounda (Crete);;35.25300;25.76000;Autumn;10.00;5.00;Porifera;Petrosia ficiformis;;Severe;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+405;2018-07-06 07:24:07;2018-10-04 13:01:07;2008;Aegean Sea;Mediterranean Sea;Karpathos (Cyclades archipielago);;35.54100;27.22100;Summer;20.00;10.00;Porifera;Sarcotragus foetidus;;;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+406;2018-07-06 07:24:07;2018-10-04 13:01:07;2008;Aegean Sea;Mediterranean Sea;Karpathos (Cyclades archipielago);;35.54100;27.22100;Summer;20.00;10.00;Porifera;Sarcotragus spinosulus;;;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+407;2018-07-06 07:24:12;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Autumn;20.00;5.00;Cnidaria;Cladocora caespitosa;12.00;Low;250;Temperature anomaly;;NA;NA;;231;1;136;1990;Illes Columbretes;1;110;Full name: e-mail: web page: ;;0
+408;2018-07-06 07:24:13;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Tavolara Island - Punta Coda Cavallo (SITE 1);IT;40.90000;9.71000;Autumn;25.00;25.00;Cnidaria;Paramuricea clavata;100.00;Severe;13;Temperature anomaly;;Disease;Bacterial infection;;231;1;37;1997;Tavolara - Punta Coda Cavallo;1;117;Full name: e-mail: web page: ;Oportunistic Vibrio infection;0
+409;2018-07-06 07:24:14;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Tavolara Island - Punta Coda Cavallo (SITE 1);IT;40.90000;9.71000;Autumn;30.00;30.00;Cnidaria;Paramuricea clavata;80.00;Severe;17;Temperature anomaly;;Disease;Bacterial infection;;231;1;37;1997;Tavolara - Punta Coda Cavallo;1;117;Full name: e-mail: web page: ;Oportunistic Vibrio infection;0
+410;2018-07-06 07:24:16;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Tavolara Island - Punta Coda Cavallo (SITE 1);IT;40.90000;9.71000;Autumn;35.00;35.00;Cnidaria;Paramuricea clavata;40.00;Moderate;24;Temperature anomaly;;Disease;Bacterial infection;;231;1;37;1997;Tavolara - Punta Coda Cavallo;1;117;Full name: e-mail: web page: ;Oportunistic Vibrio infection;0
+411;2018-07-06 07:24:17;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Tavolara Island - Punta Coda Cavallo (SITE 2);IT;40.90000;9.71000;Autumn;35.00;35.00;Cnidaria;Paramuricea clavata;78.00;Severe;27;Temperature anomaly;;Disease;Bacterial infection;;231;1;37;1997;Tavolara - Punta Coda Cavallo;1;117;Full name: e-mail: web page: ;Oportunistic Vibrio infection;0
+412;2018-07-06 07:24:18;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Tavolara Island - Punta Coda Cavallo (SITE 2);IT;40.90000;9.71000;Autumn;40.00;40.00;Cnidaria;Paramuricea clavata;25.00;Low;25;Temperature anomaly;;Disease;Bacterial infection;;231;1;37;1997;Tavolara - Punta Coda Cavallo;1;117;Full name: e-mail: web page: ;Oportunistic Vibrio infection;0
+413;2018-07-06 07:24:19;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Tavolara Island - Punta Coda Cavallo (SITE 2);IT;40.90000;9.71000;Autumn;25.00;25.00;Cnidaria;Paramuricea clavata;100.00;Severe;16;Temperature anomaly;;Disease;Bacterial infection;;231;1;37;1997;Tavolara - Punta Coda Cavallo;1;117;Full name: e-mail: web page: ;Oportunistic Vibrio infection;0
+414;2018-07-06 07:24:21;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Tavolara Island - Punta Coda Cavallo (SITE 2);IT;40.90000;9.71000;Autumn;30.00;30.00;Cnidaria;Paramuricea clavata;82.00;Severe;22;Temperature anomaly;;Disease;Bacterial infection;;231;1;37;1997;Tavolara - Punta Coda Cavallo;1;117;Full name: e-mail: web page: ;Oportunistic Vibrio infection;0
+415;2018-07-06 07:24:24;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Cabrera National Park;ES;39.14000;2.94000;Autumn;15.00;10.00;Porifera;Ircinia fasciculata;80.00;Severe;96;Temperature anomaly;;Other;Other;;231;1;109;1991;Archipielago De Cabrera;1;118;Full name: e-mail: web page: ;Breakdown of the cyanobacteria-sponge symbiosis;0
+416;2018-07-06 07:24:26;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Reserve Naturelle de Scandola;FR;42.35000;8.55011;Autumn;15.00;10.00;Porifera;Ircinia fasciculata;80.00;Severe;55;Temperature anomaly;;;Other;;231;1;64;1975;Scandola;1;118;"Full name: 
+e-mail: 
+web page: ";Breakdown of the cyanobacteria-sponge symbiosis;0
+417;2018-07-06 07:24:33;2018-10-04 13:01:07;2008;Alboran Sea;Mediterranean Sea;Granada Coast (Punta de la Mona);ES;36.72293;-3.77518;Autumn;36.43;3.43;Porifera;Ircinia fasciculata;25.00;Low;50;;;;Bacterial infection;;234;1;110;1989;Acantilados De Maro Cerro Gordo;1;119;"Full name: 
+e-mail: 
+web page: ";;0
+418;2018-07-06 07:24:40;2018-10-04 13:01:07;2008;Alboran Sea;Mediterranean Sea;Granada Coast (Punta de la Mona);;36.43000;-3.43000;Autumn;30.00;5.00;Porifera;Ircinia variabilis;53.00;Moderate;19;;;;Bacterial infection;;234;0;;0;;1;119;"Full name: 
+e-mail: 
+web page: ";;0
+419;2018-07-06 07:24:47;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Grotta Azzurra (Salerno);;40.02025;15.26000;Autumn;15.00;15.00;Cnidaria;Eunicella cavolinii;91.50;Severe;23;Temperature anomaly;;;NA;;231;0;;0;;1;217;"Full name: 
+e-mail: 
+web page: ";;0
+420;2018-07-06 07:24:55;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Grotta Azzurra (Salerno);;40.02000;15.26000;Autumn;20.00;20.00;Cnidaria;Eunicella cavolinii;50.00;Moderate;25;Temperature anomaly;;;NA;;231;0;;0;;1;218;"Full name: 
+e-mail: 
+web page: ";;0
+421;2018-07-06 07:25:04;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Grotta Azzurra (Salerno);;40.02025;15.26825;Autumn;25.00;25.00;Cnidaria;Eunicella cavolinii;60.00;Severe;25;Temperature anomaly;;;NA;;231;0;;0;;1;216;"Full name: 
+e-mail: 
+web page: ";;0
+422;2018-07-06 07:25:12;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Banco di Santa Croce (Gulf of Naples);IT;40.25857;14.87823;Summer;18.00;18.00;Cnidaria;Eunicella cavolinii;;;;Temperature anomaly;;;Bacterial infection;;231;1;39;2009;Santa Maria Di Castellabate;1;212;"Full name: 
+e-mail: 
+web page: ";Cyanobacteria infection;0
+423;2018-07-06 07:25:19;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Banco di Santa Croce (Gulf of Naples);IT;40.25000;14.87823;Summer;18.00;18.00;Cnidaria;Eunicella singularis;;;;Temperature anomaly;;;Bacterial infection;;231;1;39;2009;Santa Maria Di Castellabate;1;213;"Full name: 
+e-mail: 
+web page: ";Cyanobacteria infection;0
+424;2018-07-06 07:25:23;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Rhodophyta;Peysonellia spp.;;Severe;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+425;2018-07-06 07:25:27;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Clathrina clathrus;;Severe;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+426;2018-07-06 07:25:31;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Hemimycale columella;;Severe;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+427;2018-07-06 07:25:35;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Pleraplysilla spinifera;;Severe;;Other;Storm;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;"Full name: 
+e-mail: 
+web page: ";;0
+428;2018-07-06 07:25:39;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Bryozoa;Adeonella calveti;;Severe;;Other;Storm;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;"Full name: 
+e-mail: 
+web page: ";;0
+429;2018-07-06 07:25:43;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Bryozoa;Myriapora truncata;;Severe;;Other;Storm;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;"Full name: 
+e-mail: 
+web page: ";;0
+430;2018-07-06 07:25:47;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Rhodophyta;Lithophyllum stictaeforme;;Severe;;Other;Storm;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;"Full name: 
+e-mail: 
+web page: ";;0
+431;2018-07-06 07:25:51;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Acanthella acuta;;Severe;;Other;Storm;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;"Full name: 
+e-mail: 
+web page: ";;0
+432;2018-07-06 07:25:54;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Clorophyta;Palmophyllum crassum;;Severe;;Other;Storm;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;"Full name: 
+e-mail: 
+web page: ";;0
+433;2018-07-06 07:25:59;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Cnidaria;Parazoanthus axinellae;;Severe;;Other;Storm;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;"Full name: 
+e-mail: 
+web page: ";;0
+434;2018-07-06 07:26:03;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Cnidaria;Paramuricea clavata;;Severe;;Other;Storm;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;"Full name: 
+e-mail: 
+web page: ";;0
+435;2018-07-06 07:26:07;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Dysidea avara;;Severe;;Other;Storm;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;"Full name: 
+e-mail: 
+web page: ";;0
+436;2018-07-06 07:26:11;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Ascidiacea;Cystodites dellechiajei;;Moderate;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+437;2018-07-06 07:26:15;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Cnidaria;Leptosammia pruvoti;;Moderate;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+438;2018-07-06 07:26:19;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Cnidaria;Caryophyllia inornata;;Moderate;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+439;2018-07-06 07:26:23;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Phorbas tenacior;;Moderate;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+440;2018-07-06 07:26:26;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Rhodophyta;Mesophyllum alternans;;Moderate;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+441;2018-07-06 07:26:30;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Cnidaria;Alcyonium acaule;;Moderate;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+442;2018-07-06 07:26:34;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Crambe crambe;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+443;2018-07-06 07:26:38;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Carall Bernat) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Corticium candelabrum ;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+444;2018-07-06 07:26:42;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Clathrina clathrus;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+445;2018-07-06 07:26:46;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Bryozoa;Adeonella calveti;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+446;2018-07-06 07:26:50;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Rhodophyta;Lithophyllum stictaeforme;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+447;2018-07-06 07:26:54;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Acanthella acuta;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+448;2018-07-06 07:26:57;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Cnidaria;Parazoanthus axinellae;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+449;2018-07-06 07:27:01;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Cnidaria;Paramuricea clavata;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+450;2018-07-06 07:27:06;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Phorbas tenacior;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+451;2018-07-06 07:27:10;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Agelas oroides;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+452;2018-07-06 07:27:14;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Ircinia variabilis;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+453;2018-07-06 07:27:18;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Anelida;Filograna implexa;;Moderate;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+454;2018-07-06 07:27:22;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Halocynthia papillosa;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+455;2018-07-06 07:27:26;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Tasco Petit) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Ircinia variabilis;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+456;2018-07-06 07:27:29;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Medallot) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Rhodophyta;Peysonellia spp.;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+457;2018-07-06 07:27:33;2018-10-04 13:01:07;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Medallot) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Bryozoa;Adeonella calveti;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+458;2018-07-06 07:27:37;2018-10-04 13:01:08;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Medallot) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Bryozoa;Myriapora truncata;;Severe;;Other;Storm;;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;"Full name: 
+e-mail: 
+web page: ";;0
+459;2018-07-06 07:27:41;2018-10-04 13:01:08;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Medallot) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Rhodophyta;Lithophyllum stictaeforme;;Moderate;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+460;2018-07-06 07:27:45;2018-10-04 13:01:08;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Medallot) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Cnidaria;Parazoanthus axinellae;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+461;2018-07-06 07:27:49;2018-10-04 13:01:08;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Medallot) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Cnidaria;Paramuricea clavata;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+462;2018-07-06 07:27:53;2018-10-04 13:01:08;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Medallot) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Dysidea avara;;Moderate;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+463;2018-07-06 07:27:57;2018-10-04 13:01:08;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Medallot) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Porifera;Hexadella recovitzai;;Low;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+464;2018-07-06 07:28:01;2018-10-04 13:01:08;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Medallot) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Anelida;Filograna implexa;;Severe;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+465;2018-07-06 07:28:05;2018-10-04 13:01:08;2008;Western Mediterranean;Mediterranean Sea;Medes Islands (Medallot) ;ES;42.04000;3.22000;Autumn;20.00;20.00;Bryozoa;Reteporella grimaldi;;Moderate;;Other;Storm;NA;NA;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;120;Full name: e-mail: web page: ;;0
+466;2018-07-06 07:28:13;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Banco di Santa Croce (Gulf of Naples);IT;40.25000;14.87823;Summer;18.00;18.00;Cnidaria;Eunicella cavolinii;;;;Temperature anomaly;;;Bacterial infection;;231;1;39;2009;Santa Maria Di Castellabate;1;214;"Full name: 
+e-mail: 
+web page: ";Cyanobacteria infection;0
+467;2018-07-06 07:28:21;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Banco di Santa Croce (Gulf of Naples);IT;40.25000;14.87823;Summer;18.00;18.00;Cnidaria;Eunicella singularis;;;;Temperature anomaly;;;Bacterial infection;;231;1;39;2009;Santa Maria Di Castellabate;1;215;"Full name: 
+e-mail: 
+web page: ";Cyanobacteria infection;0
+468;2018-07-06 07:28:22;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Stazione Zoologica Anton Dohrn in Naples (SZN);;40.58000;13.58000;;0.00;0.00;Ascidiacea;Ciona intestinalis;;Severe;;;;;NA;;231;0;;0;;1;121;"Full name: 
+e-mail: 
+web page: ";;0
+469;2018-07-06 07:28:26;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Autumn;20.00;5.00;Cnidaria;Cladocora caespitosa;12.00;Low;250;Temperature anomaly;;NA;NA;;231;1;136;1990;Illes Columbretes;1;110;Full name: e-mail: web page: ;;0
+470;2018-07-06 07:28:33;2018-10-04 13:01:08;2009;Alboran Sea;Mediterranean Sea;Granada Coast (Punta de la Mona);ES;36.72127;-3.77655;Summer;30.00;5.00;Porifera;Ircinia fasciculata;90.00;Severe;214;;;;Bacterial infection;;234;1;110;1989;Acantilados De Maro Cerro Gordo;1;119;"Full name: 
+e-mail: 
+web page: ";3 months;0
+471;2018-07-06 07:28:40;2018-10-04 13:01:08;2009;Alboran Sea;Mediterranean Sea;Granada Coast (Punta de la Mona);ES;36.73228;-3.77930;Summer;30.00;5.00;Porifera;Ircinia variabilis;89.00;Severe;55;;;;Bacterial infection;;234;1;110;1989;Acantilados De Maro Cerro Gordo;1;119;"Full name: 
+e-mail: 
+web page: ";3 months;0
+472;2018-07-06 07:28:41;2018-10-04 13:01:08;2009;Alboran Sea;Mediterranean Sea;Malaga;;36.70669;-4.40758;Autumn;0.00;0.00;Porifera;Sponges;59.00;Moderate;122;;;;Bacterial infection;;234;0;;0;;1;119;"Full name: 
+e-mail: 
+web page: ";;0
+473;2018-07-06 07:28:44;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Cabrera National Park;ES;39.14000;2.94000;Autumn;15.00;10.00;Porifera;Ircinia fasciculata;90.00;Severe;22;Temperature anomaly;;Other;Other;;231;1;109;1991;Archipielago De Cabrera;1;118;Full name: e-mail: web page: ;Breakdown of the cyanobacteria-sponge symbiosis;0
+474;2018-07-06 07:28:46;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Reserve Naturelle de Scandola;FR;42.35000;8.56000;Autumn;15.00;10.00;Porifera;Ircinia fasciculata;100.00;Severe;5;Temperature anomaly;;Other;Other;;231;1;64;1975;Scandola;1;118;Full name: e-mail: web page: ;Breakdown of the cyanobacteria-sponge symbiosis;0
+475;2018-07-06 07:28:54;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Ischia;IT;40.74414;13.84964;Summer;28.00;0.00;Cnidaria;Paramuricea clavata;75.00;Severe;;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;207;"Full name: 
+e-mail: 
+web page: ";;0
+476;2018-07-06 07:29:02;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Ischia;IT;40.74414;13.84000;Summer;28.00;0.00;Cnidaria;Eunicella singularis;75.00;Severe;;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;208;"Full name: 
+e-mail: 
+web page: ";;0
+477;2018-07-06 07:29:09;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Ischia;IT;40.74000;13.84964;Summer;28.00;0.00;Cnidaria;Eunicella cavolinii;75.00;Severe;;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;209;"Full name: 
+e-mail: 
+web page: ";;0
+478;2018-07-06 07:29:17;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Ischia;IT;40.74000;13.84964;Summer;15.00;0.00;Cnidaria;Astroides calycularis;20.00;Low;;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;210;"Full name: 
+e-mail: 
+web page: ";;0
+479;2018-07-06 07:29:25;2018-10-04 13:01:08;2009;Western Mediterranean;Mediterranean Sea;Ischia;IT;40.74000;13.84964;Summer;15.00;0.00;Mol. Bivalvia;Spondylus gaederopus;;;;Temperature anomaly;;;NA;;231;1;44;2007;Regno Di Nettuno;1;211;"Full name: 
+e-mail: 
+web page: ";;0
+480;2018-07-06 07:29:25;2018-10-04 13:01:08;2009;Ionian Sea;Mediterranean Sea;Cape San Vito (Taranto);;40.41000;17.20000;Summer;6.00;4.00;Porifera;Ircinia variabilis;67.00;Severe;49;Temperature anomaly;;Disease;Bacterial infection;;228;0;;0;;1;122;Full name: e-mail: web page: ;Oportunistic Vibrio infection;0
+481;2018-07-06 07:29:26;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Torre Sant'Andrea (Lecce);;40.25000;18.44000;Summer;6.00;4.00;Porifera;Ircinia variabilis;31.00;Moderate;98;Temperature anomaly;;Disease;Bacterial infection;;225;0;;0;;1;122;Full name: e-mail: web page: ;Oportunistic Vibrio infection;0
+482;2018-07-06 07:29:27;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Scoglio delTrave (Conero Promontory);;43.58000;13.57000;Summer;5.00;5.00;Porifera;Sarcotragus spinosulus;;Severe;;Temperature anomaly;;;Bacterial infection;;225;0;;0;;1;161;"Full name: 
+e-mail: 
+web page: ";;0
+483;2018-07-06 07:29:27;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Scoglio delTrave (Conero Promontory);;43.58000;13.57000;Summer;5.00;5.00;Porifera;Ircinia variabilis;;Low;;Temperature anomaly;;;Bacterial infection;;225;0;;0;;1;123;"Full name: 
+e-mail: 
+web page: ";;0
+484;2018-07-06 07:29:28;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Scoglio delTrave (Conero Promontory);;43.58000;13.57000;Summer;5.00;5.00;Porifera;Spongia officinalis;;Low;;Temperature anomaly;;;Bacterial infection;;225;0;;0;;1;123;"Full name: 
+e-mail: 
+web page: ";;0
+485;2018-07-06 07:29:35;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park (Rt Lenga);HR;42.78935;17.41333;Summer;5.00;5.00;Cnidaria;Balanophyllia europaea;62.00;Severe;26;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;114;"Full name: 
+e-mail: 
+web page: ";;0
+486;2018-07-06 07:29:43;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;12.00;7.00;Cnidaria;Cladocora caespitosa;57.00;Moderate;81;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;96;"Full name: 
+e-mail: 
+web page: ";;0
+487;2018-07-06 07:29:43;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;11.00;6.00;Cnidaria;Cladocora caespitosa;64.00;Severe;17;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+488;2018-07-06 07:29:51;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;12.00;8.00;Cnidaria;Cladocora caespitosa;86.00;Severe;19;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+489;2018-07-06 07:29:58;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;10.00;7.00;Cnidaria;Cladocora caespitosa;66.00;Severe;12;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+490;2018-07-06 07:30:06;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;13.00;5.00;Cnidaria;Cladocora caespitosa;73.00;Severe;14;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+491;2018-07-06 07:30:06;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;43.00;19.00;Cnidaria;Eunicella cavolinii;16.00;Low;59;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+492;2018-07-06 07:30:14;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;47.00;23.00;Cnidaria;Eunicella cavolinii;27.98;Low;104;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+493;2018-07-06 07:30:22;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;49.00;18.00;Cnidaria;Eunicella cavolinii;15.00;Low;97;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+494;2018-07-06 07:30:30;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.53000;Summer;44.00;21.00;Cnidaria;Eunicella cavolinii;25.70;Low;81;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+495;2018-07-06 07:30:31;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;45.00;37.00;Cnidaria;Paramuricea clavata;48.00;Moderate;28;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+496;2018-07-06 07:30:39;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;48.00;35.00;Cnidaria;Paramuricea clavata;58.10;Moderate;43;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+497;2018-07-06 07:30:46;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;44.00;38.00;Cnidaria;Paramuricea clavata;55.37;Moderate;37;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+498;2018-07-06 07:30:54;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;48.00;42.00;Cnidaria;Paramuricea clavata;60.57;Severe;42;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+499;2018-07-06 07:31:01;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;47.00;18.00;Cnidaria;Madracis pharensis;68.00;Severe;106;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+500;2018-07-06 07:31:02;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;41.00;22.00;Cnidaria;Madracis pharensis;45.00;Moderate;93;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+501;2018-07-06 07:31:09;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;46.00;19.00;Cnidaria;Madracis pharensis;39.00;Moderate;177;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+502;2018-07-06 07:31:17;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;39.00;24.00;Cnidaria;Madracis pharensis;58.00;Moderate;118;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+503;2018-07-06 07:31:24;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;37.00;17.00;Cnidaria;Madracis pharensis;67.00;Severe;96;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+504;2018-07-06 07:31:32;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;64.00;23.00;Cnidaria;Leptosammia pruvoti;47.00;Moderate;493;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+505;2018-07-06 07:31:33;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;49.00;18.00;Cnidaria;Leptosammia pruvoti;25.00;Low;471;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+506;2018-07-06 07:31:41;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;52.00;17.00;Cnidaria;Leptosammia pruvoti;26.00;Low;623;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+507;2018-07-06 07:31:48;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;48.00;16.00;Cnidaria;Leptosammia pruvoti;16.00;Low;489;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+508;2018-07-06 07:31:55;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;47.00;22.00;Cnidaria;Leptosammia pruvoti;19.00;Low;556;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+509;2018-07-06 07:32:03;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;11.00;3.00;Cnidaria;Balanophyllia europaea;75.00;Severe;93;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+510;2018-07-06 07:32:03;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;12.00;4.00;Cnidaria;Balanophyllia europaea;25.00;Low;29;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+511;2018-07-06 07:32:11;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;11.00;4.00;Cnidaria;Balanophyllia europaea;49.00;Moderate;36;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+512;2018-07-06 07:32:18;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;12.00;3.00;Cnidaria;Balanophyllia europaea;51.00;Moderate;42;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+513;2018-07-06 07:32:26;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;10.00;5.00;Cnidaria;Balanophyllia europaea;49.00;Moderate;34;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+514;2018-07-06 07:32:34;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Rhodophyta;Lithophyllum stictaeforme;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+515;2018-07-06 07:32:42;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Rhodophyta;Lithophyllum stictaeforme;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+516;2018-07-06 07:32:50;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Cnidaria;Corallium rubrum;20.00;Low;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+517;2018-07-06 07:32:57;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Cnidaria;Corallium rubrum;20.00;Low;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+518;2018-07-06 07:33:05;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Cnidaria;Corallium rubrum;20.00;Low;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+519;2018-07-06 07:33:12;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Bryozoa;Pentapora fascialis;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+520;2018-07-06 07:33:20;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Bryozoa;Pentapora fascialis;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+521;2018-07-06 07:33:27;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+522;2018-07-06 07:33:35;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+523;2018-07-06 07:33:43;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Bryozoa;Myriapora truncata;;;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+524;2018-07-06 07:33:50;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Bryozoa;Reteporella beaniana;;Severe;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+525;2018-07-06 07:33:58;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Bryozoa;Reteporella beaniana;;Severe;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+526;2018-07-06 07:34:06;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Porifera;Agelas oroides;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+527;2018-07-06 07:34:13;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Agelas oroides;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+528;2018-07-06 07:34:20;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Agelas oroides;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+529;2018-07-06 07:34:28;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Porifera;Aplysina cavernicola;;;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+530;2018-07-06 07:34:35;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Porifera;Aplysina cavernicola;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+531;2018-07-06 07:34:43;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Aplysina cavernicola;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+532;2018-07-06 07:34:51;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Aplysina cavernicola;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+533;2018-07-06 07:34:51;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;0.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+534;2018-07-06 07:34:59;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+535;2018-07-06 07:35:08;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+536;2018-07-06 07:35:16;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+537;2018-07-06 07:35:23;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Hippospongia communis;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+538;2018-07-06 07:35:30;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Ircinia dendroides;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+539;2018-07-06 07:35:38;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Ircinia dendroides;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+540;2018-07-06 07:35:38;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;0.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+541;2018-07-06 07:35:46;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+542;2018-07-06 07:35:54;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+543;2018-07-06 07:36:01;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+544;2018-07-06 07:36:09;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Petrosia ficiformis;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+545;2018-07-06 07:36:16;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+546;2018-07-06 07:36:24;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+547;2018-07-06 07:36:31;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+548;2018-07-06 07:36:39;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Porifera;Spongia officinalis;;;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+549;2018-07-06 07:36:39;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;0.00;0.00;Cnidaria;Caryophyllia inornata;5.00;Low;;Temperature anomaly;;NA;NA;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+550;2018-07-06 07:36:47;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Cnidaria;Caryophyllia inornata;5.00;Low;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+551;2018-07-06 07:36:56;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Cnidaria;Caryophyllia inornata;5.00;Low;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+552;2018-07-06 07:37:04;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Cnidaria;Caryophyllia inornata;5.00;Low;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+553;2018-07-06 07:37:12;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79323;17.33917;Summer;0.00;0.00;Cnidaria;Caryophyllia inornata;5.00;Low;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+554;2018-07-06 07:37:19;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Cnidaria;Parazoanthus axinellae;5.00;Low;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+555;2018-07-06 07:37:27;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Cnidaria;Parazoanthus axinellae;5.00;Low;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+556;2018-07-06 07:37:35;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Lastovo ;HR;42.76315;16.79260;Summer;0.00;0.00;Cnidaria;Parazoanthus axinellae;5.00;Low;;Temperature anomaly;;;NA;;225;1;155;2006;Lastovo Archipelago;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+557;2018-07-06 07:37:42;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Cnidaria;Parazoanthus axinellae;5.00;Low;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+558;2018-07-06 07:37:43;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Planka (Rogoznika);;43.29000;15.48000;;30.00;23.00;Cnidaria;Eunicella cavolinii;31.73;Moderate;104;NA;;NA;NA;;225;0;;0;;1;124;Full name: e-mail: web page: ;;0
+559;2018-07-06 07:37:43;2018-10-04 13:01:08;2009;Adriatic Sea;Mediterranean Sea;Smokvica (Rogoznika);;43.30000;15.56000;;30.00;20.00;Cnidaria;Eunicella cavolinii;39.84;Moderate;128;NA;;NA;NA;;225;0;;0;;1;124;Full name: e-mail: web page: ;No;0
+560;2018-07-06 07:37:44;2018-10-04 13:01:08;2010;Aegean Sea;Mediterranean Sea;Akti Kalogrias (Chalkidiki);;40.17000;23.71000;Summer;30.00;5.00;Porifera;Agelas oroides;;Severe;30;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";No;0
+561;2018-07-06 07:37:45;2018-10-04 13:01:08;2010;Aegean Sea;Mediterranean Sea;Akti Kalogrias (Chalkidiki);;40.18000;23.72000;Summer;30.00;5.00;Porifera;Chondrosia reniformis;;Severe;30;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";No;0
+562;2018-07-06 07:37:46;2018-10-04 13:01:08;2010;Aegean Sea;Mediterranean Sea;Akti Kalogrias (Chalkidiki);;40.19000;23.73000;Summer;30.00;5.00;Porifera;Sarcotragus foetidus;;Severe;30;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";No;0
+563;2018-07-06 07:37:47;2018-10-04 13:01:08;2010;Aegean Sea;Mediterranean Sea;Akti Kalogrias (Chalkidiki);;40.20000;23.74000;Summer;30.00;5.00;Porifera;Ircinia spp;;Severe;30;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";No;0
+564;2018-07-06 07:37:47;2018-10-04 13:01:08;2010;Aegean Sea;Mediterranean Sea;Akti Kalogrias (Chalkidiki);;40.21000;23.75000;Summer;30.00;5.00;Porifera;Petrosia ficiformis;;Severe;30;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";No;0
+565;2018-07-06 07:37:55;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Punta Imperatore (Phlegrean islands);IT;40.70862;13.85084;Summer;145.00;89.00;Cnidaria;Corallium rubrum;37.00;Moderate;;Other;;;NA;;231;1;44;2007;Regno Di Nettuno;1;13;"Full name: 
+e-mail: 
+web page: ";;0
+566;2018-07-06 07:37:55;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Secca del Pampano (Gulf of Naples);;40.45000;14.10000;Summer;140.00;95.00;Cnidaria;Corallium rubrum;73.00;Severe;;Other;;;NA;;231;0;;0;;1;13;"Full name: 
+e-mail: 
+web page: ";;0
+567;2018-07-06 07:37:56;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Secca di Zio Antonino (Gulf of Naples);;40.45000;14.15000;Summer;120.00;95.00;Cnidaria;Corallium rubrum;28.00;Low;;Other;;;NA;;231;0;;0;;1;13;"Full name: 
+e-mail: 
+web page: ";;0
+568;2018-07-06 07:37:56;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Secca de La Montanga (Gulf of Naples);;40.45000;14.16000;Summer;130.00;110.00;Cnidaria;Corallium rubrum;61.00;Severe;;Other;;;NA;;231;0;;0;;1;13;"Full name: 
+e-mail: 
+web page: ";;0
+569;2018-07-06 07:37:57;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Scogli della Bocca Piccola (Gulf of Naples);;40.37000;14.13000;Summer;120.00;115.00;Cnidaria;Corallium rubrum;26.00;Low;;Other;;NA;NA;;231;0;;0;;1;13;Full name: e-mail: web page: ;;0
+570;2018-07-06 07:38:05;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Li Galli Is. W. (Amalfi Coast);IT;40.58000;14.43000;Summer;112.00;67.00;Cnidaria;Corallium rubrum;85.00;Severe;;Other;;;NA;;231;1;35;1997;Punta Campanella;1;13;"Full name: 
+e-mail: 
+web page: ";;0
+571;2018-07-06 07:38:13;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Li Galli Is. E. (Amalfi Coast);IT;40.58045;14.43295;Summer;110.00;53.00;Cnidaria;Corallium rubrum;6.00;Low;;Other;;;NA;;231;1;35;1997;Punta Campanella;1;13;"Full name: 
+e-mail: 
+web page: ";;0
+572;2018-07-06 07:38:13;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Torre di Grado (Amalfi Coast);;40.36000;14.31000;Summer;160.00;30.00;Cnidaria;Corallium rubrum;11.00;Low;;Other;;;NA;;231;0;;0;;1;13;"Full name: 
+e-mail: 
+web page: ";;0
+573;2018-07-06 07:38:14;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Grotta del Diavolo (Amalfi Coast);;40.36000;14.31000;Summer;120.00;70.00;Cnidaria;Corallium rubrum;25.00;Low;;Other;;;NA;;231;0;;0;;1;13;"Full name: 
+e-mail: 
+web page: ";;0
+574;2018-07-06 07:38:15;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Scoglio d'Isca (Amalfi Coast);;40.36000;14.31000;Summer;140.00;50.00;Cnidaria;Corallium rubrum;12.00;Low;;Other;;;NA;;231;0;;0;;1;13;"Full name: 
+e-mail: 
+web page: ";;0
+575;2018-07-06 07:38:15;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Capo di Conca (Amalfi Coast);;40.36000;14.34000;Summer;180.00;46.00;Cnidaria;Corallium rubrum;21.00;Low;;Other;;;NA;;231;0;;0;;1;13;"Full name: 
+e-mail: 
+web page: ";;0
+576;2018-07-06 07:38:16;2018-10-04 14:44:00;2010;Western Mediterranean;Mediterranean Sea;Alicante Harbour;ES;38.16142;-0.46589;Autumn;5.00;3.00;Cnidaria;Oculina patagonica;;;;Temperature anomaly;;;Bacterial infection;;231;1;137;1986;Illa De Tabarca;1;125;"Full name: 
+e-mail: 
+web page: ";Oportunistic Vibrio infection;0
+577;2018-07-06 07:38:18;2018-10-04 13:01:08;2010;Western Mediterranean;Mediterranean Sea;Reserve Naturelle de Scandola;FR;42.35000;8.56000;Summer;0.00;0.00;Porifera;Ircinia fasciculata;;;;Temperature anomaly;;NA;NA;;231;1;64;1975;Scandola;1;126;Full name: e-mail: web page: ;;0
+578;2018-07-06 07:38:25;2018-10-04 13:01:08;2011;Western Mediterranean;Mediterranean Sea;Cabrera National Park;ES;39.17426;2.93541;Summer;45.00;40.00;Cnidaria;Paramuricea clavata;;Severe;;Temperature anomaly;;;NA;;231;1;109;1991;Archipielago De Cabrera;1;201;"Full name: 
+e-mail: 
+web page: ";;0
+579;2018-07-06 07:38:31;2018-10-04 13:01:08;2011;Western Mediterranean;Mediterranean Sea;Cabrera National Park;ES;39.17426;2.93541;Summer;45.00;40.00;Cnidaria;Alcyonium acaule;;Severe;;Temperature anomaly;;;NA;;231;1;109;1991;Archipielago De Cabrera;1;202;"Full name: 
+e-mail: 
+web page: ";;0
+580;2018-07-06 07:38:38;2018-10-04 13:01:08;2011;Western Mediterranean;Mediterranean Sea;Cabrera National Park;ES;39.17000;2.93541;Summer;45.00;40.00;Porifera;Crambe crambe;;Moderate;9;Temperature anomaly;;;NA;;231;1;109;1991;Archipielago De Cabrera;1;203;"Full name: 
+e-mail: 
+web page: ";;0
+581;2018-07-06 07:38:45;2018-10-04 13:01:08;2011;Western Mediterranean;Mediterranean Sea;Cabrera National Park;ES;39.17000;2.93541;Summer;45.00;40.00;Porifera;Phorbas topsenti;;Low;;Temperature anomaly;;;NA;;231;1;109;1991;Archipielago De Cabrera;1;204;"Full name: 
+e-mail: 
+web page: ";;0
+582;2018-07-06 07:38:52;2018-10-04 13:01:08;2011;Western Mediterranean;Mediterranean Sea;Cabrera National Park;ES;39.17000;2.93541;Summer;45.00;40.00;Rhodophyta;Mesophyllum sp;;Low;;Temperature anomaly;;;NA;;231;1;109;1991;Archipielago De Cabrera;1;205;"Full name: 
+e-mail: 
+web page: ";;0
+583;2018-07-06 07:38:53;2018-10-04 13:01:08;2011;Adriatic Sea;Mediterranean Sea;Pag;;44.19000;15.15000;;30.00;20.00;Cnidaria;Eunicella cavolinii;45.36;Moderate;97;NA;;NA;NA;;225;0;;0;;1;124;Full name: e-mail: web page: ;;0
+584;2018-07-06 07:38:53;2018-10-04 13:01:08;2011;Aegean Sea;Mediterranean Sea;Lefteris (Pelio);;39.08000;23.20000;;30.00;24.00;Cnidaria;Eunicella cavolinii;34.21;Moderate;114;NA;;NA;NA;;229;0;;0;;1;124;Full name: e-mail: web page: ;;0
+585;2018-07-06 07:38:54;2018-10-04 13:01:08;2011;Aegean Sea;Mediterranean Sea;Ag Vasso (Pelio);;39.05000;23.07000;;35.00;32.00;Cnidaria;Eunicella cavolinii;21.87;Low;114;NA;;NA;NA;;229;0;;0;;1;124;Full name: e-mail: web page: ;;0
+586;2018-07-06 07:38:54;2018-10-04 13:01:08;2011;Aegean Sea;Mediterranean Sea;Ambelos (Chalkidiki);;39.57000;23.59000;;40.00;30.00;Cnidaria;Eunicella cavolinii;64.10;Severe;96;NA;;NA;NA;;229;0;;0;;1;124;Full name: e-mail: web page: ;;0
+587;2018-07-06 07:38:55;2018-10-04 13:01:08;2011;Aegean Sea;Mediterranean Sea;Spilia (Chalkidiki);;39.56000;23.57000;;40.00;35.00;Cnidaria;Eunicella cavolinii;21.40;Low;103;NA;;NA;NA;;229;0;;0;;1;124;Full name: e-mail: web page: ;;0
+588;2018-07-06 07:38:55;2018-10-04 13:01:08;2011;Aegean Sea;Mediterranean Sea;Nemessis (Chalkidiki) ;;39.56000;23.59000;;38.00;30.00;Cnidaria;Eunicella cavolinii;14.29;Low;105;NA;;NA;NA;;229;0;;0;;1;124;Full name: e-mail: web page: ;;0
+589;2018-07-06 07:39:02;2018-10-04 13:01:08;2011;Western Mediterranean;Mediterranean Sea;Marine Protected Area of Tabraca;ES;38.16048;-0.46692;Summer;5.00;3.00;Cnidaria;Oculina patagonica;;Moderate;9;Temperature anomaly;;;Bacterial infection;;231;1;137;1986;Illa De Tabarca;1;125;"Full name: 
+e-mail: 
+web page: ";Oportunistic Vibrio infection;0
+590;2018-07-06 07:39:03;2018-10-04 13:01:08;2011;Adriatic Sea;Mediterranean Sea;Scoglio delTrave (Conero Promontory);;43.34000;13.34000;Autumn;10.00;5.00;Porifera;Irciniidae Spongiida;30.00;Low;228;Temperature anomaly;;NA;NA;;225;0;;0;;1;127;Full name: e-mail: web page: ;1 month ;0
+591;2018-07-06 07:39:03;2018-10-04 13:01:08;2011;Adriatic Sea;Mediterranean Sea;Scoglio delTrave (Conero Promontory);;43.34000;13.34000;Autumn;11.00;5.00;Porifera;Chondrosia reniformis;100.00;Severe;;Temperature anomaly;;NA;NA;;225;0;;0;;1;127;Full name: e-mail: web page: ;1 month ;0
+592;2018-07-06 07:39:04;2018-10-04 13:01:08;2011;Adriatic Sea;Mediterranean Sea;Scoglio delTrave (Conero Promontory);;43.34000;13.34000;Autumn;12.00;5.00;Cnidaria;Eudendrium racemosum;;;;Temperature anomaly;;NA;NA;;225;0;;0;;1;127;Full name: e-mail: web page: ;1 month ;0
+593;2018-07-06 07:39:05;2018-10-04 13:01:08;2011;Adriatic Sea;Mediterranean Sea;Scoglio delTrave (Conero Promontory);;43.34000;13.34000;Autumn;7.00;5.00;Porifera;Tedania anhelans;40.00;Moderate;;Temperature anomaly;;NA;NA;;225;0;;0;;1;127;Full name: e-mail: web page: ;1 month ;0
+594;2018-07-06 07:39:05;2018-10-04 13:01:08;2011;Adriatic Sea;Mediterranean Sea;Scoglio delTrave (Conero Promontory);;43.34000;13.34000;Autumn;7.00;5.00;Cnidaria;Epizoanthus  arenaceus;;Severe;;Temperature anomaly;;NA;NA;;225;0;;0;;1;127;Full name: e-mail: web page: ;1 month ;0
+595;2018-07-06 07:39:06;2018-10-04 13:01:08;2011;Adriatic Sea;Mediterranean Sea;Scoglio delTrave (Conero Promontory);;43.34000;13.34000;Autumn;7.00;5.00;Cnidaria;Cornularia cornucopiae;;Severe;;Temperature anomaly;;NA;NA;;225;0;;0;;1;127;Full name: e-mail: web page: ;1 month ;0
+596;2018-07-06 07:39:06;2018-10-04 13:01:08;2011;Adriatic Sea;Mediterranean Sea;Piran;;42.46000;17.22000;Summer;19.00;6.00;Cnidaria;Cladocora caespitosa;;Moderate;75;Temperature anomaly;;NA;NA;;225;0;;0;;1;96;Full name: e-mail: web page: ;1 month ;0
+597;2018-07-06 07:39:14;2018-10-04 13:01:08;2011;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;18.00;6.00;Cnidaria;Cladocora caespitosa;;Moderate;184;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;96;"Full name: 
+e-mail: 
+web page: ";184 bleached;0
+598;2018-07-06 07:39:18;2018-10-04 13:01:08;2011;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Autumn;20.00;5.00;Cnidaria;Cladocora caespitosa;17.00;Low;250;Temperature anomaly;;NA;NA;;231;1;136;1990;Illes Columbretes;1;110;Full name: e-mail: web page: ;;0
+599;2018-07-06 07:39:22;2018-10-04 13:01:08;2012;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.89000;0.68000;Autumn;20.00;5.00;Cnidaria;Cladocora caespitosa;11.00;Low;250;Temperature anomaly;;NA;NA;;231;1;136;1990;Illes Columbretes;1;110;Full name: e-mail: web page: ;;0
+600;2018-07-06 07:39:30;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Mljet National Park (Rt Lenga);HR;42.78935;17.41333;Summer;12.00;4.00;Cnidaria;Balanophyllia europaea;100.00;Severe;32;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;114;"Full name: 
+e-mail: 
+web page: ";;0
+601;2018-07-06 07:39:37;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Mljet National Park (Vanji);HR;42.78028;17.32681;Summer;12.00;2.00;Cnidaria;Balanophyllia europaea;100.00;Severe;66;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;114;"Full name: 
+e-mail: 
+web page: ";;0
+602;2018-07-06 07:39:44;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Mljet National Park (Rt Stupe);HR;42.76012;17.39685;Summer;14.00;4.00;Cnidaria;Balanophyllia europaea;67.00;Severe;19;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;114;"Full name: 
+e-mail: 
+web page: ";;0
+603;2018-07-06 07:39:45;2018-10-04 13:01:08;2012;Levantine Sea;Mediterranean Sea;Cyprus (Potamos Lopietrou);;34.50000;34.50000;Summer;10.00;2.00;Cnidaria;Cladocora caespitosa;93.00;Severe;29;Temperature anomaly;;Predator outbreaks;Predator outbreaks;;226;0;;0;;1;128;Full name: e-mail: web page: ;Corallivory  (Crustaceas and Snails);0
+604;2018-07-06 07:39:45;2018-10-04 13:01:08;2012;Levantine Sea;Mediterranean Sea;Cyprus (Potamos Lopietrou);;34.50000;34.50000;Summer;10.00;2.00;Cnidaria;Balanophyllia europaea;;;;Temperature anomaly;;NA;NA;;226;0;;0;;1;128;Full name: e-mail: web page: ;;0
+605;2018-07-06 07:39:46;2018-10-04 13:01:08;2012;Levantine Sea;Mediterranean Sea;Cyprus (Potamos Lopietrou);;34.50000;34.50000;Summer;10.00;2.00;Cnidaria;Caryophyllia inornata;;;;Temperature anomaly;;NA;NA;;226;0;;0;;1;128;Full name: e-mail: web page: ;;0
+606;2018-07-06 07:39:46;2018-10-04 13:01:08;2012;Levantine Sea;Mediterranean Sea;Cyprus (Potamos Lopietrou);;34.50000;34.50000;Summer;10.00;2.00;Cnidaria;Madracis pharensis;;;;Temperature anomaly;;NA;NA;;226;0;;0;;1;128;Full name: e-mail: web page: ;;0
+607;2018-07-06 07:39:47;2018-10-04 13:01:08;2012;Levantine Sea;Mediterranean Sea;Cyprus (Potamos Lopietrou);;34.50000;34.50000;Summer;10.00;2.00;Cnidaria;Phyllangia mouchezii;;;;Temperature anomaly;;NA;NA;;226;0;;0;;1;128;Full name: e-mail: web page: ;;0
+608;2018-07-06 07:39:47;2018-10-04 13:01:08;2012;Levantine Sea;Mediterranean Sea;Cyprus (Potamos Lopietrou);;34.50000;34.50000;Summer;10.00;2.00;Cnidaria;Polycyathus muellerae;;;;Temperature anomaly;;NA;NA;;226;0;;0;;1;128;Full name: e-mail: web page: ;;0
+609;2018-07-06 07:39:48;2018-10-04 13:01:08;2012;Levantine Sea;Mediterranean Sea;Cyprus (Potamos Lopietrou);;34.50000;34.50000;Summer;10.00;2.00;Rhodophyta;Mesophyllum sp;;;;Temperature anomaly;;NA;NA;;226;0;;0;;1;128;Full name: e-mail: web page: ;;0
+610;2018-07-06 07:39:49;2018-10-04 13:01:08;2012;Levantine Sea;Mediterranean Sea;Cyprus (Potamos Lopietrou);;34.50000;34.50000;Summer;6.00;2.00;Cnidaria;Cladocora caespitosa;;Severe;53;Temperature anomaly;;;NA;;226;0;;0;;1;128;"Full name: 
+e-mail: 
+web page: ";;0
+611;2018-07-06 07:39:49;2018-10-04 13:01:08;2012;Levantine Sea;Mediterranean Sea;Cyprus (Krio Nero);;34.50000;34.50000;Summer;6.00;2.00;Cnidaria;Cladocora caespitosa;;Severe;82;Temperature anomaly;;;NA;;226;0;;0;;1;165;"Full name: 
+e-mail: 
+web page: ";;0
+612;2018-07-06 07:39:50;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Ciovo Island;;43.30000;16.17000;Summer;10.00;5.00;Cnidaria;Cladocora caespitosa;;Severe;4;Temperature anomaly;;;NA;;225;0;;0;;1;166;"Full name: 
+e-mail: 
+web page: ";;0
+613;2018-07-06 07:39:50;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Ciovo Island;;43.30000;16.17000;Summer;15.00;10.00;Cnidaria;Cladocora caespitosa;;Severe;23;Temperature anomaly;;;NA;;225;0;;0;;1;167;"Full name: 
+e-mail: 
+web page: ";;0
+614;2018-07-06 07:39:51;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Ciovo Island;;43.30000;16.17000;Summer;20.00;15.00;Cnidaria;Cladocora caespitosa;;Severe;12;Temperature anomaly;;;NA;;225;0;;0;;1;168;"Full name: 
+e-mail: 
+web page: ";;0
+615;2018-07-06 07:39:51;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;0.00;0.00;Cnidaria;Paramuricea clavata;;;;Temperature anomaly;;Mucillagenous blooms;Mucillagenous blooms;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+616;2018-07-06 07:39:52;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Cres;;44.57000;14.24000;Summer;0.00;0.00;Cnidaria;Eunicella cavolinii;;;;Temperature anomaly;;Mucillagenous blooms;Mucillagenous blooms;;225;0;;0;;1;100;Full name: e-mail: web page: ;;0
+617;2018-07-06 07:39:59;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Telascika;HR;43.87810;15.16663;Summer;0.00;0.00;Cnidaria;Corallium rubrum;20.00;Low;;Temperature anomaly;;;NA;;225;1;165;1988;Telascica;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+618;2018-07-06 07:40:07;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Kornati;HR;43.73935;15.36713;Summer;0.00;0.00;Cnidaria;Corallium rubrum;20.00;Low;;Temperature anomaly;;;NA;;225;1;163;1980;Kornati;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+619;2018-07-06 07:40:14;2018-10-04 13:01:08;2012;Adriatic Sea;Mediterranean Sea;Mljet National Park ;HR;42.79339;17.33917;Summer;0.00;0.00;Cnidaria;Corallium rubrum;20.00;Low;;Temperature anomaly;;;NA;;225;1;164;1960;Mljet;1;100;"Full name: 
+e-mail: 
+web page: ";;0
+620;2018-07-06 07:40:22;2018-10-04 13:01:08;2013;Western Mediterranean;Mediterranean Sea;Palazzinu (Scandola);FR;42.37484;8.55869;;23.00;20.00;Cnidaria;Eunicella cavolinii;17.00;Low;277;;;;NA;;231;1;64;1975;Scandola;1;124;"Full name: 
+e-mail: 
+web page: ";;0
+621;2018-07-06 07:40:22;2018-10-04 13:01:08;2013;Aegean Sea;Mediterranean Sea;Kalloni (Lesvos) ;;39.14000;26.15000;;27.00;13.00;Cnidaria;Eunicella cavolinii;65.99;Severe;147;NA;;NA;NA;;229;0;;0;;1;124;Full name: e-mail: web page: ;;0
+622;2018-07-06 07:40:23;2018-10-04 13:01:08;2014;Aegean Sea;Mediterranean Sea;Lasithi (Crete) ;;35.13000;26.31000;Summer;30.00;10.00;Porifera;Calyx nicaeensis;;Moderate;;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+623;2018-07-06 07:40:24;2018-10-04 13:01:08;2014;Aegean Sea;Mediterranean Sea;Lasithi (Crete) ;;35.13000;26.31000;Summer;30.00;10.00;Porifera;Ircinia variabilis;;Moderate;;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+624;2018-07-06 07:40:25;2018-10-04 13:01:08;2014;Aegean Sea;Mediterranean Sea;Lasithi (Crete) ;;35.13000;26.31000;Summer;30.00;10.00;Porifera;Sarcotragus spinosulus;;Moderate;;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+625;2018-07-06 07:40:26;2018-10-04 13:01:08;2014;Aegean Sea;Mediterranean Sea;Lasithi (Crete) ;;35.13000;26.31000;Summer;30.00;10.00;Porifera;Sarcotragus foetidus;;Moderate;;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+626;2018-07-06 07:40:30;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Medes Islands;ES;42.03000;3.13000;Autumn;30.00;0.00;Rhodophyta;Lithophyllum incrustans;;;;Temperature anomaly;;Disease;Disease;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;129;Full name: e-mail: web page: ;Coralline White Band Syndrome CWBS and Coraline White Patch disease CWPD;0
+627;2018-07-06 07:40:33;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Cap de Creus;ES;42.19000;3.19000;Autumn;30.00;0.00;Rhodophyta;Lithophyllum incrustans;;;;Temperature anomaly;;Disease;Disease;;231;1;97;1992;Aiguamolls De L'Alt EmpordÃ ;1;129;Full name: e-mail: web page: ;Coralline White Band Syndrome CWBS and Coraline White Patch disease CWPD;0
+628;2018-07-06 07:40:39;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.85915;0.67017;Autumn;30.00;0.00;Rhodophyta;Lithophyllum incrustans;;;;Temperature anomaly;;;;;231;1;136;1990;Illes Columbretes;1;129;"Full name: 
+e-mail: 
+web page: ";Coralline White Band Syndrome CWBS and Coraline White Patch disease CWPD;0
+629;2018-07-06 07:40:43;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Medes Islands;ES;42.03000;3.13000;Autumn;30.00;0.00;Rhodophyta;Mesophyllum alternans;;;;Temperature anomaly;;Disease;Disease;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;129;Full name: e-mail: web page: ;Coralline White Band Syndrome CWBS and Coraline White Patch disease CWPD;0
+630;2018-07-06 07:40:46;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Cap de Creus;ES;42.19000;3.19000;Autumn;30.00;0.00;Rhodophyta;Mesophyllum alternans;;;;Temperature anomaly;;Disease;Disease;;231;1;97;1992;Aiguamolls De L'Alt EmpordÃ ;1;129;Full name: e-mail: web page: ;Coralline White Band Syndrome CWBS and Coraline White Patch disease CWPD;0
+631;2018-07-06 07:40:53;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.85915;0.67017;Autumn;30.00;0.00;Rhodophyta;Mesophyllum alternans;;;;Temperature anomaly;;;;;231;1;136;1990;Illes Columbretes;1;129;"Full name: 
+e-mail: 
+web page: ";Coralline White Band Syndrome CWBS and Coraline White Patch disease CWPD;0
+632;2018-07-06 07:40:57;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Medes Islands;ES;42.03000;3.13000;Autumn;30.00;0.00;Rhodophyta;Neogoniolithon mamillosum ;;;;Temperature anomaly;;Disease;Disease;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;129;Full name: e-mail: web page: ;Coralline White Band Syndrome CWBS and Coraline White Patch disease CWPD;0
+633;2018-07-06 07:40:59;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Cap de Creus;ES;42.19000;3.19000;Autumn;30.00;0.00;Rhodophyta;Neogoniolithon mamillosum ;;;;Temperature anomaly;;Disease;Disease;;231;1;97;1992;Aiguamolls De L'Alt EmpordÃ ;1;129;Full name: e-mail: web page: ;Coralline White Band Syndrome CWBS and Coraline White Patch disease CWPD;0
+634;2018-07-06 07:41:06;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.85915;0.67017;Autumn;30.00;0.00;Rhodophyta;Neogoniolithon mamillosum ;;;;Temperature anomaly;;;;;231;1;136;1990;Illes Columbretes;1;129;"Full name: 
+e-mail: 
+web page: ";Coralline White Band Syndrome CWBS and Coraline White Patch disease CWPD;0
+635;2018-07-06 07:41:10;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Medes Islands;ES;42.03000;3.13000;Autumn;30.00;0.00;Rhodophyta;Corallina elongata;;;;Temperature anomaly;;Disease;Disease;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;129;Full name: e-mail: web page: ;Coraline White Patch disease CWPD;0
+636;2018-07-06 07:41:13;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Cap de Creus;ES;42.19000;3.19000;Autumn;30.00;0.00;Rhodophyta;Corallina elongata;;;;Temperature anomaly;;Disease;Disease;;231;1;97;1992;Aiguamolls De L'Alt EmpordÃ ;1;129;Full name: e-mail: web page: ;Coraline White Patch disease CWPD;0
+637;2018-07-06 07:41:20;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.85915;0.67017;Autumn;30.00;0.00;Rhodophyta;Corallina elongata;;;;Temperature anomaly;;;;;231;1;136;1990;Illes Columbretes;1;129;"Full name: 
+e-mail: 
+web page: ";Coraline White Patch disease CWPD;0
+638;2018-07-06 07:41:24;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Medes Islands;ES;42.03000;3.13000;Autumn;30.00;0.00;Rhodophyta;Jania rubens ;;;;Temperature anomaly;;Disease;Disease;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;129;Full name: e-mail: web page: ;Coraline White Patch disease CWPD;0
+639;2018-07-06 07:41:27;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Cap de Creus;ES;42.19000;3.19000;Autumn;30.00;0.00;Rhodophyta;Jania rubens ;;;;Temperature anomaly;;Disease;Disease;;231;1;97;1992;Aiguamolls De L'Alt EmpordÃ ;1;129;Full name: e-mail: web page: ;Coraline White Patch disease CWPD;0
+640;2018-07-06 07:41:34;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.85915;0.67017;Autumn;30.00;0.00;Rhodophyta;Jania rubens ;;;;Temperature anomaly;;;;;231;1;136;1990;Illes Columbretes;1;129;"Full name: 
+e-mail: 
+web page: ";Coraline White Patch disease CWPD;0
+641;2018-07-06 07:41:38;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Medes Islands;ES;42.03000;3.13000;Autumn;30.00;0.00;Rhodophyta;Amphiroa rigida;;;;Temperature anomaly;;Disease;Disease;;231;1;115;2010;El MontgrÃ­, Les Illes Medes I El Baix Ter;1;129;Full name: e-mail: web page: ;Coraline White Patch disease CWPD;0
+642;2018-07-06 07:41:41;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Cap de Creus;ES;42.19000;3.19000;Autumn;30.00;0.00;Rhodophyta;Amphiroa rigida;;;;Temperature anomaly;;Disease;Disease;;231;1;97;1992;Aiguamolls De L'Alt EmpordÃ ;1;129;Full name: e-mail: web page: ;Coraline White Patch disease CWPD;0
+643;2018-07-06 07:41:48;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Columbretes Islands;ES;39.85915;0.67017;Autumn;30.00;0.00;Rhodophyta;Amphiroa rigida;;;;Temperature anomaly;;;;;231;1;136;1990;Illes Columbretes;1;129;"Full name: 
+e-mail: 
+web page: ";Coraline White Patch disease CWPD;0
+644;2018-07-06 07:41:48;2018-10-04 13:01:08;2015;Levantine Sea;Mediterranean Sea;Cyprus (Krio Nero);;34.50000;34.50000;Winter;6.00;2.00;Cnidaria;Cladocora caespitosa;7.00;Low;70;Other;Storm;;;;226;0;;0;;1;152;"Full name: 
+e-mail: 
+web page: ";;0
+645;2018-07-06 07:41:55;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Marine Protected Area of Tabraca;ES;38.16142;-0.46589;Summer;25.00;20.00;Cnidaria;Eunicella singularis;53.82;Moderate;73;Temperature anomaly;;;Bacterial infection;;231;1;137;1986;Illa De Tabarca;1;130;"Full name: 
+e-mail: 
+web page: ";Oportunistic Vibrio infection;0
+646;2018-07-06 07:42:03;2018-10-04 14:51:55;2015;Western Mediterranean;Mediterranean Sea;Marine Protected Area of Tabraca;ES;38.16142;-0.46589;Summer;25.00;20.00;Cnidaria;Leptogorgia saementosa;42.00;;38;Temperature anomaly;;;Bacterial infection;;231;1;137;1986;Illa De Tabarca;1;130;"Full name: 
+e-mail: 
+web page: ";Oportunistic Vibrio infection;0
+647;2018-07-06 07:42:09;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Marine Protected Area of Tabraca;ES;38.16142;-0.46589;Summer;10.00;3.00;Cnidaria;Cladocora caespitosa;47.00;Moderate;25;Temperature anomaly;;;Bacterial infection;;231;1;137;1986;Illa De Tabarca;1;130;"Full name: 
+e-mail: 
+web page: ";Oportunistic Vibrio infection;0
+648;2018-07-06 07:42:10;2018-10-04 14:46:22;2015;Western Mediterranean;Mediterranean Sea;Marine Protected Area of Tabraca;ES;38.16142;-0.46589;Summer;10.00;3.00;Cnidaria;Oculina patagonica;30.00;;44;Temperature anomaly;;;Bacterial infection;;231;1;137;1986;Illa De Tabarca;1;130;"Full name: 
+e-mail: 
+web page: ";Oportunistic Vibrio infection;0
+649;2018-07-06 07:42:17;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Marine Protected Area of Tabraca;ES;38.16142;-0.46589;Summer;25.00;20.00;Cnidaria;Phyllangia mouchezii;;;3;Temperature anomaly;;;Bacterial infection;;231;1;137;1986;Illa De Tabarca;1;130;"Full name: 
+e-mail: 
+web page: ";Oportunistic Vibrio infection;0
+650;2018-07-06 07:42:24;2018-10-04 13:01:08;2015;Western Mediterranean;Mediterranean Sea;Marine Protected Area of Tabraca;ES;38.16135;-0.46812;Summer;10.00;3.00;Porifera;Sarcotragus fasciculatus;43.00;Moderate;212;Temperature anomaly;;;Bacterial infection;;231;1;137;1986;Illa De Tabarca;1;130;"Full name: 
+e-mail: 
+web page: ";Oportunistic Vibrio infection;0
+651;2018-07-06 07:42:25;2018-10-04 13:01:08;2016;Western Mediterranean;Mediterranean Sea;Ses Bledes- Ibiza ;ES;40.04000;4.01000;Summer;42.00;35.00;Cnidaria;Gorgonians;50.00;Moderate;;Temperature anomaly;;;;;231;1;133;1999;Norte De Menorca;1;154;"Full name: 
+e-mail: 
+web page: ";;0
+652;2018-07-06 07:42:26;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Keros Island (Cyclades archipielago);;36.88000;25.68000;Spring;25.00;0.00;Porifera;Sarcotragus foetidus;;Severe;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+653;2018-07-06 07:42:26;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Keros Island (Cyclades archipielago);;36.89000;25.69000;Spring;25.00;0.00;Porifera;Chondrosia reniformis;;Severe;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+654;2018-07-06 07:42:27;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Antiparos (Cyclades archipielago);;36.95000;26.07000;Summer;25.00;5.00;Porifera;Agelas oroides;;;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+655;2018-07-06 07:42:28;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Antiparos (Cyclades archipielago);;36.96000;26.08000;Summer;25.00;5.00;Porifera;Chondrosia reniformis;;;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+656;2018-07-06 07:42:29;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Milos (Cyclades archipielago);;36.71000;24.54000;Summer;5.00;5.00;Porifera;Sarcotragus foetidus;;;;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+657;2018-07-06 07:42:30;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Glaronissi island (North Evoikos);;38.52000;23.39000;Summer;10.00;5.00;Porifera;Aplysina aerophoba;;Severe;5;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+658;2018-07-06 07:42:30;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Eglezonissi Island (Evoikos gulf);;38.50000;23.49000;Summer;5.00;5.00;Porifera;Aplysina aerophoba;;Severe;3;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+659;2018-07-06 07:42:31;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Skala, Lichadonissia (North Evoikos);;38.80000;22.83000;Summer;15.00;5.00;Porifera;Aplysina aerophoba;;;5;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+660;2018-07-06 07:42:32;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Skala, Lichadonissia (North Evoikos);;38.81000;22.84000;Summer;15.00;5.00;Porifera;Chondrosia reniformis;;;5;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+661;2018-07-06 07:42:33;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Ag Vasso (Pelio);;39.08000;23.11000;Summer;6.00;0.00;Porifera;Aplysina aerophoba;;Severe;31;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+662;2018-07-06 07:42:34;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Fidonissi (Kavala gulf);;40.86000;24.34000;Summer;5.00;0.00;Porifera;Aplysina aerophoba;;;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+663;2018-07-06 07:42:34;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;Cathedral Cave, Chania (Crete);;35.55000;24.06000;Summer;15.00;13.00;Porifera;Agelas oroides;;Severe;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+664;2018-07-06 07:42:35;2018-10-04 13:01:08;2016;Aegean Sea;Mediterranean Sea;South Chios Island ;;38.24000;25.87000;Summer;15.00;5.00;Porifera;Sarcotragus foetidus;;Moderate;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
+665;2018-07-06 07:42:36;2018-10-04 13:01:08;2017;Aegean Sea;Mediterranean Sea;Alykes (Crete);;35.41000;24.98000;Spring;20.00;5.00;Porifera;Agelas oroides;;Severe;10;;;;NA;;229;0;;0;;1;131;"Full name: 
+e-mail: 
+web page: ";;0
